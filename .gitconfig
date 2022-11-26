@@ -1,0 +1,7 @@
+[user]
+	email = ichigar@gobiernodecanarias.org
+	name = ichigar
+[credential]
+	helper = cache --timeout=30000
+[core]
+	pager = off
