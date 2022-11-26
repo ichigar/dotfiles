@@ -1,2 +1,3 @@
 # dotfiles
-config files
+
+config files and installed software from apt a snap
