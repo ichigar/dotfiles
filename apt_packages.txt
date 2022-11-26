@@ -474,7 +474,7 @@ anorack/jammy,jammy 0.2.7-1 all
 ansible-core/jammy-updates,jammy-updates 2.12.0-1ubuntu0.1 all
 ansible-lint/jammy,jammy 5.4.0-2 all
 ansible-mitogen/jammy,jammy 0.3.1-3 all
-ansible/jammy,jammy,now 2.10.7+merged+base+2.10.8+dfsg-1 all [configuración-residual]
+ansible/jammy,jammy 2.10.7+merged+base+2.10.8+dfsg-1 all
 ansifilter-gui/jammy 2.18+dfsg1-1 amd64
 ansifilter/jammy 2.18+dfsg1-1 amd64
 ansilove/jammy 4.1.5-2 amd64
@@ -629,7 +629,7 @@ aperture-0-examples/jammy 0.1.0+git20200908-3 amd64
 apf-firewall/jammy,jammy 9.7+rev1-6 all
 apfs-dkms/jammy,jammy 0+git20220214+ds-1 all
 apfsprogs/jammy 0+git20210928-2 amd64
-apg/jammy,now 2.2.3.dfsg.1-5build2 amd64 [configuración-residual]
+apg/jammy 2.2.3.dfsg.1-5build2 amd64
 apgdiff/jammy,jammy 2.7.0-1 all
 api-sanity-checker/jammy,jammy 1.98.7-2 all
 apkinfo/jammy,jammy 0.3.26-2 all
@@ -687,7 +687,7 @@ apt-btrfs-snapshot/jammy,jammy 3.5.5 all
 apt-build/jammy 0.12.49 amd64
 apt-cacher-ng/jammy 3.7.4-1build1 amd64
 apt-cacher/jammy,jammy 1.7.25 all
-apt-clone/jammy,jammy 0.4.3+nmu1 all
+apt-clone/jammy,jammy,now 0.4.3+nmu1 all [instalado]
 apt-config-auto-update/jammy,jammy 2.1+nmu1 all
 apt-config-icons-hidpi/jammy,jammy,now 0.15.2-2 all [instalado]
 apt-config-icons-large-hidpi/jammy,jammy,now 0.15.2-2 all [instalado]
@@ -704,7 +704,7 @@ apt-listdifferences/jammy,jammy 1.20190206 all
 apt-mirror/jammy,jammy 0.5.4-1 all
 apt-move/jammy 4.2.27-6 amd64
 apt-offline-gui/jammy,jammy 1.8.4-1 all
-apt-offline/jammy,jammy 1.8.4-1 all [configuración-residual]
+apt-offline/jammy,jammy 1.8.4-1 all
 apt-rdepends/jammy,jammy 1.3.0-9 all
 apt-rollback/jammy,jammy 1.0.16-0ubuntu1 all
 apt-show-source/jammy,jammy 0.11+nmu1 all
@@ -721,7 +721,7 @@ apt-xapian-index/jammy,jammy,now 0.51ubuntu1 all [instalado]
 apt/jammy-updates,now 2.4.8 amd64 [instalado, automático]
 apt/jammy-updates 2.4.8 i386
 aptdaemon-data/jammy,jammy 1.1.1+bzr982-0ubuntu39 all
-aptdaemon/jammy,jammy,now 1.1.1+bzr982-0ubuntu39 all [configuración-residual]
+aptdaemon/jammy,jammy 1.1.1+bzr982-0ubuntu39 all
 aptfs/jammy,jammy 2:1.0.1 all
 apticron-systemd/jammy,jammy 1.2.5 all
 apticron/jammy,jammy 1.2.5 all
@@ -740,7 +740,7 @@ aptitude/jammy,now 0.8.13-3ubuntu1 amd64 [instalado]
 aptly-api/jammy 1.4.0+ds1-6 amd64
 aptly-publisher/jammy,jammy 0.12.10-2 all
 aptly/jammy 1.4.0+ds1-6 amd64
-apturl-common/jammy,now 0.5.2ubuntu22 amd64 [configuración-residual]
+apturl-common/jammy 0.5.2ubuntu22 amd64
 apturl/jammy 0.5.2ubuntu22 amd64
 apulse/jammy 0.1.13-2 amd64
 apvlv/jammy 0.4.0-2 amd64
@@ -1081,7 +1081,7 @@ asymptote/jammy 2.78+ds-2 amd64
 at-spi2-core/jammy,now 2.44.0-3 amd64 [instalado]
 at-spi2-core/jammy 2.44.0-3 i386
 at-spi2-doc/jammy,jammy 2.44.0-3 all
-at/jammy 3.2.5-1ubuntu1 amd64 [configuración-residual]
+at/jammy 3.2.5-1ubuntu1 amd64
 atac/jammy 0~20150903+r2013-8build2 amd64
 atanks-data/jammy,jammy 6.6~dfsg-1 all
 atanks/jammy 6.6~dfsg-1 amd64
@@ -2336,7 +2336,7 @@ calibre-bin/jammy,now 5.37.0+dfsg-1build1 amd64 [instalado, automático]
 calibre/jammy,jammy,now 5.37.0+dfsg-1build1 all [instalado]
 calife/jammy 1:3.0.1-6 amd64
 callaudiod/jammy 0.1.3-1 amd64
-calligra-data/jammy,jammy,now 1:3.2.1+dfsg-5 all [configuración-residual]
+calligra-data/jammy,jammy 1:3.2.1+dfsg-5 all
 calligra-gemini-data/jammy,jammy 1:3.2.1+dfsg-5 all
 calligra-gemini/jammy 1:3.2.1+dfsg-5 amd64
 calligra-libs/jammy 1:3.2.1+dfsg-5 amd64
@@ -2346,7 +2346,7 @@ calligrasheets-data/jammy,jammy 1:3.2.1+dfsg-5 all
 calligrasheets/jammy 1:3.2.1+dfsg-5 amd64
 calligrastage-data/jammy,jammy 1:3.2.1+dfsg-5 all
 calligrastage/jammy 1:3.2.1+dfsg-5 amd64
-calligrawords-data/jammy,jammy,now 1:3.2.1+dfsg-5 all [configuración-residual]
+calligrawords-data/jammy,jammy 1:3.2.1+dfsg-5 all
 calligrawords/jammy 1:3.2.1+dfsg-5 amd64
 callisto/jammy 1.1.0-2build1 amd64
 calypso/jammy,jammy 2.1-1 all
@@ -2591,7 +2591,6 @@ ceph/jammy-updates 17.2.0-0ubuntu0.22.04.2 amd64
 cephadm/jammy-updates 17.2.0-0ubuntu0.22.04.2 amd64
 cephfs-shell/jammy-updates,jammy-updates 17.2.0-0ubuntu0.22.04.2 all
 cereal/jammy,jammy 0.24-1.1 all
-cerebro/now 0.3.2 amd64 [configuración-residual]
 ceres-solver-doc/jammy,jammy 2.0.0+dfsg1-5 all
 certbot/jammy,jammy 1.21.0-1build1 all
 certinfo/jammy 1.0.6+ds1-2 amd64
@@ -3476,7 +3475,7 @@ corosync/jammy 3.1.6-1ubuntu1 i386
 corsix-th-data/jammy,jammy 0.65.1-1 all
 corsix-th/jammy 0.65.1-1 amd64
 cortado/jammy,jammy 0.6.0-5 all
-coturn/jammy-updates 4.5.2-3.1~ubuntu22.04.1 amd64 [configuración-residual]
+coturn/jammy-updates 4.5.2-3.1~ubuntu22.04.1 amd64
 courier-authdaemon/jammy 0.71.1-2build1 amd64
 courier-authlib-dev/jammy 0.71.1-2build1 amd64
 courier-authlib-ldap/jammy 0.71.1-2build1 amd64
@@ -4553,7 +4552,7 @@ dhis-server/jammy 5.3-2.1build1 amd64
 dhtnode/jammy 2.3.1-1build3 amd64
 di-netboot-assistant/jammy,jammy 0.72 all
 di/jammy 4.48-1 amd64
-dia-common/jammy,jammy,now 0.97.3+git20160930-9build1 all [configuración-residual]
+dia-common/jammy,jammy 0.97.3+git20160930-9build1 all
 dia-rib-network/jammy,jammy 0.1-2 all
 dia-shapes/jammy,jammy 0.6.0-3.1 all
 dia2code/jammy 0.8.3-4.1 amd64
@@ -4897,7 +4896,7 @@ dma/jammy 0.13-1build1 amd64
 dmagnetic/jammy 0.32-1 amd64
 dmarc-cat/jammy 0.14.0-1 amd64
 dmarcts-report-parser/jammy,jammy 1.0+git20190809.1.bb5dd8b6-3 all
-dmeventd/jammy,now 2:1.02.175-2.1ubuntu4 amd64 [configuración-residual]
+dmeventd/jammy 2:1.02.175-2.1ubuntu4 amd64
 dmeventd/jammy 2:1.02.175-2.1ubuntu4 i386
 dmg2img/jammy 1.6.7-1build2 amd64
 dmidecode/jammy-updates,now 3.3-3ubuntu0.1 amd64 [instalado, automático]
@@ -5137,7 +5136,7 @@ dpkg-awk/jammy,jammy 1.2+nmu2 all
 dpkg-cross/jammy,jammy 2.6.18+nmu2 all
 dpkg-dev-el/jammy,jammy 37.8ubuntu1 all
 dpkg-dev/jammy-updates,jammy-updates,jammy-security,jammy-security,now 1.21.1ubuntu2.1 all [instalado, automático]
-dpkg-repack/jammy,jammy 1.50 all
+dpkg-repack/jammy,jammy,now 1.50 all [instalado, automático]
 dpkg-sig/jammy,jammy 0.13.1+nmu4 all
 dpkg-source-gitarchive/jammy,jammy 0.1.3 all
 dpkg-www/jammy,jammy 2.62 all
@@ -5514,7 +5513,7 @@ electronics-simulation/jammy,jammy 0.3 all
 electronics-tasks/jammy,jammy 0.3 all
 elektroid/jammy 2.0-1 amd64
 elementary-icon-theme/jammy,jammy 6.1.0-1 all
-elementary-xfce-icon-theme/jammy,jammy,now 0.16-0ubuntu1 all [configuración-residual]
+elementary-xfce-icon-theme/jammy,jammy 0.16-0ubuntu1 all
 elfrc/jammy 0.7-3 amd64
 elfutils/jammy 0.186-1build1 amd64
 elfutils/jammy 0.186-1build1 i386
@@ -6325,7 +6324,7 @@ f3d/jammy 1.2.1+dfsg-2 amd64
 faac/jammy 1.30-1 amd64
 faad/jammy 2.10.0-2 amd64
 faad/jammy 2.10.0-2 i386
-faba-icon-theme/jammy,jammy,now 4.3-1 all [configuración-residual]
+faba-icon-theme/jammy,jammy 4.3-1 all
 fabio-viewer/jammy,jammy 0.13.0+dfsg-1build1 all
 fabric/jammy,jammy 2.6.0-1 all
 facedetect/jammy 0.1-3build2 amd64
@@ -6782,7 +6781,6 @@ findutils/jammy,now 4.8.0-1ubuntu3 amd64 [instalado]
 findutils/jammy 4.8.0-1ubuntu3 i386
 finger/jammy,now 0.17-17 amd64 [instalado]
 fingerd/jammy 0.17-17 amd64
-fingerprint-gui/now 1.09-dfsg1-0ppa2~disco1 amd64 [configuración-residual]
 finit-plugins/jammy 4.2-1 amd64
 finit-sysv/jammy,jammy 4.2-1 all
 finit/jammy 4.2-1 amd64
@@ -6894,7 +6892,7 @@ firefox-locale-xh/jammy,jammy 1:1snap1-0ubuntu2 all
 firefox-locale-zh-hans/jammy,jammy 1:1snap1-0ubuntu2 all
 firefox-locale-zh-hant/jammy,jammy 1:1snap1-0ubuntu2 all
 firefox-locale-zu/jammy,jammy 1:1snap1-0ubuntu2 all
-firefox/jammy,now 1:1snap1-0ubuntu2 amd64 [configuración-residual]
+firefox/jammy 1:1snap1-0ubuntu2 amd64
 firehol-common/jammy,jammy 3.1.7+ds-2 all
 firehol-doc/jammy,jammy 3.1.7+ds-2 all
 firehol-tools-doc/jammy,jammy 3.1.7+ds-2 all
@@ -7128,7 +7126,7 @@ fonts-bwht/jammy,jammy 0.1-3 all
 fonts-cabin/jammy,jammy 1.5-3 all
 fonts-cabinsketch/jammy,jammy 1.02-3 all
 fonts-campania/jammy,jammy 2.009-2 all
-fonts-cantarell/jammy,jammy 0.303-2 all [configuración-residual]
+fonts-cantarell/jammy,jammy 0.303-2 all
 fonts-cardo/jammy,jammy 1.04-3 all
 fonts-cascadia-code/jammy,jammy 2102.03-1 all
 fonts-cegui/jammy,jammy 0.8.7-9build4 all
@@ -7970,7 +7968,7 @@ fuse2fs/jammy-updates,jammy-security 1.46.5-2ubuntu1.1 amd64
 fuse2fs/jammy-updates,jammy-security 1.46.5-2ubuntu1.1 i386
 fuse3/jammy,now 3.10.5-1build1 amd64 [instalado, automático]
 fuse3/jammy 3.10.5-1build1 i386
-fuse/jammy 2.9.9-5ubuntu3 amd64 [configuración-residual]
+fuse/jammy 2.9.9-5ubuntu3 amd64
 fuse/jammy 2.9.9-5ubuntu3 i386
 fusecram/jammy 20051104-0ubuntu4 amd64
 fuseext2/jammy 0.4-1.3ubuntu1 amd64
@@ -10460,7 +10458,7 @@ gimagereader-qt5/jammy 3.4.0-2 amd64
 gimagereader/jammy 3.4.0-2 amd64
 gimp-cbmplugs/jammy 1.2.2-1.1 amd64
 gimp-data-extras/jammy,jammy 1:2.0.2-1.1 all
-gimp-data/jammy,jammy,now 2.10.30-1build1 all [configuración-residual]
+gimp-data/jammy,jammy 2.10.30-1build1 all
 gimp-dds/jammy 3.0.1-1build1 amd64
 gimp-gap/jammy 2.6.0+dfsg-5ubuntu2 amd64
 gimp-gluas/jammy 0.1.20-1.1build1 amd64
@@ -10670,7 +10668,7 @@ gir1.2-gtd-1.0/jammy 3.28.1-6ubuntu1 amd64
 gir1.2-gtherm-0.0/jammy 0.0.3-1 amd64
 gir1.2-gtk-2.0/jammy 2.24.33-2ubuntu2 amd64
 gir1.2-gtk-2.0/jammy 2.24.33-2ubuntu2 i386
-gir1.2-gtk-3.0/jammy-updates 3.24.33-1ubuntu2 amd64
+gir1.2-gtk-3.0/jammy-updates,now 3.24.33-1ubuntu2 amd64 [instalado, automático]
 gir1.2-gtk-3.0/jammy-updates 3.24.33-1ubuntu2 i386
 gir1.2-gtk-4.0/jammy-updates 4.6.6+ds-0ubuntu1 amd64
 gir1.2-gtk-4.0/jammy-updates 4.6.6+ds-0ubuntu1 i386
@@ -10728,7 +10726,7 @@ gir1.2-json-1.0/jammy 1.6.6-1build1 amd64
 gir1.2-json-1.0/jammy 1.6.6-1build1 i386
 gir1.2-jsonrpc-1.0/jammy 3.42.0-1 amd64
 gir1.2-keybinder-0.0/jammy 0.3.1-2.1 amd64
-gir1.2-keybinder-3.0/jammy 0.3.2-1.1 amd64
+gir1.2-keybinder-3.0/jammy,now 0.3.2-1.1 amd64 [instalado, automático]
 gir1.2-kkc-1.0/jammy 0.3.5-7build1 amd64
 gir1.2-langtag-0.6/jammy 0.6.3-2ubuntu1 amd64
 gir1.2-lfb-0.0/jammy 0.0.0+git20220208-1 amd64
@@ -10832,7 +10830,7 @@ gir1.2-upowerglib-1.0/jammy 0.99.17-1 amd64
 gir1.2-urfkill-glib0/jammy 0.6.0~20150318.103828.5539c0d.1-0ubuntu9 amd64
 gir1.2-v-sim-1.0/jammy 3.7.2-8build7 amd64
 gir1.2-vips-8.0/jammy 8.12.1-1build1 amd64
-gir1.2-vte-2.91/jammy 0.68.0-1 amd64
+gir1.2-vte-2.91/jammy,now 0.68.0-1 amd64 [instalado, automático]
 gir1.2-webkit2-4.0/jammy-updates,jammy-security 2.38.2-0ubuntu0.22.04.2 amd64
 gir1.2-webkit2-4.0/jammy-updates,jammy-security 2.38.2-0ubuntu0.22.04.2 i386
 gir1.2-webkit2-4.1/jammy-updates,jammy-security 2.38.2-0ubuntu0.22.04.2 amd64
@@ -14453,7 +14451,6 @@ gputils/jammy 1.4.0-0.2 amd64
 gpw/jammy 0.0.19940601-10 amd64
 gpx/jammy 2.6.8-1 amd64
 gpxinfo/jammy,jammy 1.5.0-1 all
-gpxsee/now 8.1-1 amd64 [configuración-residual]
 gpxviewer/jammy,jammy 1.1.0-4 all
 gqrx-sdr/jammy 2.15.8-1build1 amd64
 gr-air-modes/jammy 0.0.20210211-2build2 amd64
@@ -14605,7 +14602,6 @@ grub-common/jammy 2.06-2ubuntu7 i386
 grub-coreboot-bin/jammy 2.06-2ubuntu7 amd64
 grub-coreboot-dbg/jammy 2.06-2ubuntu7 amd64
 grub-coreboot/jammy 2.06-2ubuntu7 amd64
-grub-customizer/jammy 5.0.6-202112131607~ubuntu22.04.1 amd64
 grub-efi-amd64-bin/jammy-updates,now 2.06-2ubuntu10 amd64 [instalado, automático]
 grub-efi-amd64-bin/jammy-updates 2.06-2ubuntu10 i386
 grub-efi-amd64-dbg/jammy-updates 2.06-2ubuntu10 amd64
@@ -14667,7 +14663,7 @@ gsettings-ubuntu-schemas/jammy,jammy,now 0.0.7+21.10.20210712-0ubuntu2 all [inst
 gsettings-ubuntu-touch-schemas/jammy,jammy 0.0.7+21.10.20210712-0ubuntu2 all
 gsettings-unity-schemas-dev/jammy 0.0.7+21.10.20210712-0ubuntu2 amd64
 gsfonts-other/jammy,jammy 6.0-4ubuntu1 all
-gsfonts-x11/jammy,jammy,now 0.28 all [configuración-residual]
+gsfonts-x11/jammy,jammy 0.28 all
 gsfonts/jammy,jammy,now 1:8.11+urwcyr1.0.7~pre44-4.5 all [instalado, automático]
 gshutdown/jammy 0.2-0ubuntu12 amd64
 gsimplecal/jammy 2.2-3 amd64
@@ -14771,7 +14767,6 @@ gtk-gnutella/jammy 1.1.15-1 amd64
 gtk-im-libthai/jammy 0.2.2-1build2 amd64
 gtk-layer-shell-doc/jammy,jammy 0.7.0-1 all
 gtk-layer-shell-examples/jammy 0.7.0-1 amd64
-gtk-recordmydesktop/now 0.3.8-4.1ubuntu1 all [configuración-residual]
 gtk-sharp2-examples/jammy,jammy 2.12.40-3ubuntu1 all
 gtk-sharp2-gapi/jammy 2.12.40-3ubuntu1 amd64
 gtk-sharp2/jammy,jammy 2.12.40-3ubuntu1 all
@@ -15059,7 +15054,6 @@ hdate-applet/jammy 0.15.11-4 amd64
 hdate/jammy 1.6.02-2.1build1 amd64
 hdav/jammy 1.3.4-1build4.1 amd64
 hddemux/jammy 0.4-7ubuntu2 amd64
-hddtemp/now 0.3-beta15-54 amd64 [configuración-residual]
 hdf-compass-doc/jammy,jammy 0.7~b8-3 all
 hdf-compass/jammy,jammy 0.7~b8-3 all
 hdf4-tools/jammy 4.2.15-4 amd64
@@ -15176,7 +15170,6 @@ hfsutils/jammy 3.2.6-15build2 amd64
 hhsuite-data/jammy,jammy 3.3.0+ds-6 all
 hhsuite/jammy 3.3.0+ds-6 amd64
 hibagent/jammy,jammy 1.0.1-0ubuntu2 all
-hibernate/now 2.0+15+g88d54a8-1 all [configuración-residual]
 hibiscus-doc/jammy,jammy 2.10.4+dfsg-1 all
 hibiscus/jammy,jammy 2.10.4+dfsg-1 all
 hicolor-icon-theme/jammy,jammy,now 0.17-2 all [instalado]
@@ -15517,7 +15510,6 @@ i3lock-fancy/jammy 0.0~git20160228.0.0fcb933-3 amd64
 i3lock/jammy 2.13-1 amd64
 i3pystatus/jammy,jammy 3.35+git20191126.5a8eaf4-2 all
 i3status/jammy 2.13-3 amd64
-i3xrocks/now 1.3.2 amd64 [configuración-residual]
 i7z/jammy 0.27.2+git2013.10.12-g5023138-7 amd64
 i810switch/jammy 0.6.5-7.1build1 amd64
 i8c/jammy,jammy 0.0.6-1 all
@@ -15621,7 +15613,7 @@ ibus-zhuyin/jammy 0.1.0-2 amd64
 ibus/jammy 1.5.26-4 amd64
 ibus/jammy 1.5.26-4 i386
 ibutils/jammy 1.5.7+0.2.gbd7e502-3 amd64
-ibverbs-providers/jammy,now 39.0-1 amd64 [configuración-residual]
+ibverbs-providers/jammy 39.0-1 amd64
 ibverbs-utils/jammy 39.0-1 amd64
 ical2html/jammy 2.1-3.1 amd64
 icatalan/jammy,jammy 0.20111230b-14 all
@@ -15718,7 +15710,7 @@ idle-python3.11/jammy,jammy 3.11.0-1+jammy1 all
 idle-python3.12/jammy,jammy 3.12.0~a2-1+jammy1 all
 idle-python3.7/jammy,jammy 3.7.15-1+jammy1 all
 idle-python3.8/jammy,jammy,now 3.8.15-1+jammy1 all [instalado, automático]
-idle-python3.9/jammy,jammy 3.9.15-1+jammy1 all [configuración-residual]
+idle-python3.9/jammy,jammy 3.9.15-1+jammy1 all
 idle3-tools/jammy 0.9.1-6 amd64
 idle3/jammy-updates,jammy-updates,now 3.10.6-1~22.04 all [instalado]
 idle/jammy-updates,jammy-updates,now 3.10.6-1~22.04 all [instalado]
@@ -15764,7 +15756,7 @@ iftop/jammy 1.0~pre4-7 amd64
 ifupdown-extra/jammy,jammy 0.33 all
 ifupdown-multi/jammy,jammy 1.0.0 all
 ifupdown-ng/jammy 0.11.4~rc1-1build1 amd64
-ifupdown/jammy 0.8.36+nmu1ubuntu3 amd64 [configuración-residual]
+ifupdown/jammy 0.8.36+nmu1ubuntu3 amd64
 ifuse/jammy 1.1.4~git20181007.3b00243-1 amd64
 igaelic/jammy 0.50-13.1 amd64
 igal2/jammy,jammy 3.1-1 all
@@ -16080,7 +16072,6 @@ iportuguese/jammy,jammy 20220219-1 all
 ipp-usb/jammy,now 0.9.20-1 amd64 [instalado, automático]
 ippl/jammy 1.4.14-13 amd64
 ippsample/jammy 0.0+20180213-0ubuntu1 amd64
-ippusbxd/now 1.34-2ubuntu1 amd64 [configuración-residual]
 ipqalc/jammy 1.5.3+git20200816.523b207-3 amd64
 iprange/jammy 1.0.4+ds-2 amd64
 iproute2-doc/jammy,jammy 5.15.0-1ubuntu2 all
@@ -16370,7 +16361,6 @@ jgrep/jammy,jammy 1.5.4-2 all
 jhbuild/jammy,jammy 3.38.0-3 all
 jhead/jammy 1:3.06.0.1-2 amd64
 jhove/jammy,jammy 1.20.1-5 all
-jicofo/now 1.0-534-1 all [configuración-residual]
 jid/jammy 0.7.6-1 amd64
 jigdo-file/jammy 0.8.1-1 amd64
 jigit/jammy 1.22-3build1 amd64
@@ -16383,11 +16373,6 @@ jimsh/jammy 0.79+dfsg0-3 amd64
 jing-trang-doc/jammy,jammy 20181222+dfsg2-6 all
 jing/jammy,jammy 20181222+dfsg2-6 all
 jison/jammy,jammy 0.4.17+dfsg-5 all
-jitsi-meet-prosody/now 1.0.3901-1 all [configuración-residual]
-jitsi-meet-turnserver/now 1.0.3901-1 all [configuración-residual]
-jitsi-meet-web-config/now 1.0.3901-1 all [configuración-residual]
-jitsi-videobridge2/now 2.1-146-g33c380ee-1 all [configuración-residual]
-jitsi-videobridge/now 1132-1 amd64 [configuración-residual]
 jitterdebugger-all/jammy 0.3.1+git20200117.b90ff3a-3 amd64
 jitterdebugger-utils/jammy 0.3.1+git20200117.b90ff3a-3 amd64
 jitterdebugger/jammy 0.3.1+git20200117.b90ff3a-3 amd64
@@ -19643,7 +19628,7 @@ libavahi-common3/jammy,now 0.8-5ubuntu5 amd64 [instalado]
 libavahi-common3/jammy 0.8-5ubuntu5 i386
 libavahi-compat-libdnssd-dev/jammy 0.8-5ubuntu5 amd64
 libavahi-compat-libdnssd-dev/jammy 0.8-5ubuntu5 i386
-libavahi-compat-libdnssd1/jammy,now 0.8-5ubuntu5 amd64 [instalado, autodesinstalable]
+libavahi-compat-libdnssd1/jammy 0.8-5ubuntu5 amd64
 libavahi-compat-libdnssd1/jammy 0.8-5ubuntu5 i386
 libavahi-core-dev/jammy 0.8-5ubuntu5 amd64
 libavahi-core-dev/jammy 0.8-5ubuntu5 i386
@@ -21604,7 +21589,7 @@ libcoap3-bin/jammy 4.3.0-2build1 amd64
 libcoap3-dev/jammy 4.3.0-2build1 amd64
 libcoap3-doc/jammy,jammy 4.3.0-2build1 all
 libcoap3/jammy 4.3.0-2build1 amd64
-libcoarrays-dev/jammy,now 2.9.2-3 amd64 [configuración-residual]
+libcoarrays-dev/jammy 2.9.2-3 amd64
 libcoarrays-mpich-dev/jammy 2.9.2-3 amd64
 libcoarrays-openmpi-dev/jammy 2.9.2-3 amd64
 libcob4-dev/jammy 3.1.2-5 amd64
@@ -24580,14 +24565,14 @@ libfltk-forms1.3/jammy 1.3.8-4 amd64
 libfltk-forms1.3/jammy 1.3.8-4 i386
 libfltk-gl1.3/jammy 1.3.8-4 amd64
 libfltk-gl1.3/jammy 1.3.8-4 i386
-libfltk-images1.3/jammy,now 1.3.8-4 amd64 [instalado, autodesinstalable]
+libfltk-images1.3/jammy 1.3.8-4 amd64
 libfltk-images1.3/jammy 1.3.8-4 i386
 libfltk1.1-dev/jammy 1.1.10-29ubuntu1 amd64
 libfltk1.1/jammy 1.1.10-29ubuntu1 amd64
 libfltk1.3-compat-headers/jammy,jammy 1.3.8-4 all
 libfltk1.3-dev/jammy 1.3.8-4 amd64
 libfltk1.3-dev/jammy 1.3.8-4 i386
-libfltk1.3/jammy,now 1.3.8-4 amd64 [instalado, autodesinstalable]
+libfltk1.3/jammy 1.3.8-4 amd64
 libfltk1.3/jammy 1.3.8-4 i386
 libfluidsynth-dev/jammy 2.2.5-1 amd64
 libfluidsynth-dev/jammy 2.2.5-1 i386
@@ -24966,7 +24951,7 @@ libgap7/jammy 4.11.1-1 amd64
 libgarcon-1-0-dev/jammy 4.16.1-1 amd64
 libgarcon-1-0/jammy 4.16.1-1 amd64
 libgarcon-1-dev/jammy 4.16.1-1 amd64
-libgarcon-common/jammy,jammy,now 4.16.1-1 all [configuración-residual]
+libgarcon-common/jammy,jammy 4.16.1-1 all
 libgarcon-gtk3-1-0/jammy 4.16.1-1 amd64
 libgarcon-gtk3-1-dev/jammy 4.16.1-1 amd64
 libgarmin-dev/jammy 0~svn320-6 amd64
@@ -28793,7 +28778,7 @@ libgl1-amber-dri/jammy,now 21.3.7-0ubuntu1 amd64 [instalado, automático]
 libgl1-mesa-dev/jammy-updates 22.0.5-0ubuntu0.1 amd64
 libgl1-mesa-dev/jammy-updates 22.0.5-0ubuntu0.1 i386
 libgl1-mesa-dri/jammy-updates,now 22.0.5-0ubuntu0.1 amd64 [instalado]
-libgl1-mesa-dri/jammy-updates 22.0.5-0ubuntu0.1 i386 [configuración-residual]
+libgl1-mesa-dri/jammy-updates 22.0.5-0ubuntu0.1 i386
 libgl1-mesa-glx/jammy-updates,now 22.0.5-0ubuntu0.1 amd64 [instalado, automático]
 libgl1-mesa-glx/jammy-updates 22.0.5-0ubuntu0.1 i386
 libgl1/jammy,now 1.4.0-1 amd64 [instalado]
@@ -30100,7 +30085,7 @@ libgtk-4-1/jammy-updates 4.6.6+ds-0ubuntu1 amd64
 libgtk-4-1/jammy-updates 4.6.6+ds-0ubuntu1 i386
 libgtk-4-bin/jammy-updates 4.6.6+ds-0ubuntu1 amd64
 libgtk-4-bin/jammy-updates 4.6.6+ds-0ubuntu1 i386
-libgtk-4-common/jammy-updates,jammy-updates,now 4.6.6+ds-0ubuntu1 all [configuración-residual]
+libgtk-4-common/jammy-updates,jammy-updates 4.6.6+ds-0ubuntu1 all
 libgtk-4-dev/jammy-updates 4.6.6+ds-0ubuntu1 amd64
 libgtk-4-dev/jammy-updates 4.6.6+ds-0ubuntu1 i386
 libgtk-4-doc/jammy-updates,jammy-updates 4.6.6+ds-0ubuntu1 all
@@ -31155,7 +31140,7 @@ libimage-geometry1d/jammy 1.16.0+ds-1build3 amd64
 libimage-imlib2-perl/jammy 2.03-1build10 amd64
 libimage-info-perl/jammy,jammy 1.42-1 all
 libimage-librsvg-perl/jammy 0.07-9build1 amd64
-libimage-magick-perl/jammy,jammy,now 8:6.9.11.60+dfsg-1.3build2 all [configuración-residual]
+libimage-magick-perl/jammy,jammy 8:6.9.11.60+dfsg-1.3build2 all
 libimage-magick-q16-perl/jammy 8:6.9.11.60+dfsg-1.3build2 amd64
 libimage-magick-q16-perl/jammy 8:6.9.11.60+dfsg-1.3build2 i386
 libimage-magick-q16hdri-perl/jammy 8:6.9.11.60+dfsg-1.3build2 amd64
@@ -32522,7 +32507,7 @@ libkeduvocdocument-data/jammy,jammy 4:21.12.3-0ubuntu1 all
 libkeduvocdocument-dev/jammy 4:21.12.3-0ubuntu1 amd64
 libkeduvocdocument5abi1/jammy 4:21.12.3-0ubuntu1 amd64
 libkeepalive0/jammy 0.3-2 amd64
-libkeybinder-3.0-0/jammy 0.3.2-1.1 amd64
+libkeybinder-3.0-0/jammy,now 0.3.2-1.1 amd64 [instalado, automático]
 libkeybinder-3.0-dev/jammy 0.3.2-1.1 amd64
 libkeybinder-dev/jammy 0.3.1-2.1 amd64
 libkeybinder0/jammy 0.3.1-2.1 amd64
@@ -32778,7 +32763,6 @@ libkf5kipi32.0.0/jammy,now 4:21.12.3-0ubuntu1 amd64 [instalado]
 libkf5kirigami2-5/jammy,now 5.92.0-0ubuntu2 amd64 [instalado]
 libkf5kirigami2-doc/jammy,jammy 5.92.0-0ubuntu2 all
 libkf5kjs-dev/jammy 5.92.0-0ubuntu1 amd64
-libkf5kmahjongglib-data/now 4:19.12.3-0ubuntu1 all [configuración-residual]
 libkf5kmahjongglib-dev/jammy 4:21.12.3-0ubuntu1 amd64
 libkf5kmahjongglib5/jammy,now 4:21.12.3-0ubuntu1 amd64 [instalado]
 libkf5kmanagesieve5/jammy 4:21.12.3-0ubuntu1 amd64
@@ -33090,7 +33074,6 @@ libkpimimportwizard5/jammy 4:21.12.3-0ubuntu1 amd64
 libkpimitinerary-data/jammy,jammy 21.12.3-0ubuntu2 all
 libkpimitinerary-dev/jammy 21.12.3-0ubuntu2 amd64
 libkpimitinerary5/jammy 21.12.3-0ubuntu2 amd64
-libkpimkdav-data/now 19.12.3-0ubuntu1 all [configuración-residual]
 libkpimpkpass-dev/jammy 21.12.3-0ubuntu1 amd64
 libkpimpkpass5/jammy 21.12.3-0ubuntu1 amd64
 libkpimsmtp-dev/jammy 21.12.3-0ubuntu1 amd64
@@ -36065,7 +36048,7 @@ libnginx-mod-http-dav-ext/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
 libnginx-mod-http-echo/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
 libnginx-mod-http-fancyindex/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
 libnginx-mod-http-geoip2/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
-libnginx-mod-http-geoip/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64 [configuración-residual]
+libnginx-mod-http-geoip/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
 libnginx-mod-http-headers-more-filter/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
 libnginx-mod-http-image-filter/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
 libnginx-mod-http-ndk/jammy-updates,jammy-security 1.18.0-6ubuntu14.3 amd64
@@ -37318,7 +37301,7 @@ libopenlibm3/jammy 0.7.0+dfsg-2 amd64
 libopenmm-dev/jammy 7.7.0+dfsg-5 amd64
 libopenmm-plugins/jammy 7.7.0+dfsg-5 amd64
 libopenmm7.7/jammy 7.7.0+dfsg-5 amd64
-libopenmpi-dev/jammy 4.1.2-2ubuntu1 amd64 [configuración-residual]
+libopenmpi-dev/jammy 4.1.2-2ubuntu1 amd64
 libopenmpi-dev/jammy 4.1.2-2ubuntu1 i386
 libopenmpi3/jammy 4.1.2-2ubuntu1 amd64
 libopenmpi3/jammy 4.1.2-2ubuntu1 i386
@@ -38317,7 +38300,6 @@ libpixman-1-0/jammy-updates,jammy-security,now 0.40.0-1ubuntu0.22.04.1 i386 [ins
 libpixman-1-dev/jammy-updates,jammy-security 0.40.0-1ubuntu0.22.04.1 amd64
 libpixman-1-dev/jammy-updates,jammy-security 0.40.0-1ubuntu0.22.04.1 i386
 libpj-java/jammy,jammy 0.0~20150107+dfsg-4 all
-libpkcs11-dnie/now 1.6.8 amd64 [configuración-residual]
 libpkcs11-helper1-dev/jammy-updates 1.28-1ubuntu0.22.04.1 amd64
 libpkcs11-helper1/jammy-updates,now 1.28-1ubuntu0.22.04.1 amd64 [instalado, automático]
 libpkgconf-dev/jammy 1.8.0-1 amd64
@@ -38847,7 +38829,7 @@ libprotobuf-java/jammy,jammy 3.12.4-1ubuntu7 all
 libprotobuf-lite23/jammy,now 3.12.4-1ubuntu7 amd64 [instalado, automático]
 libprotobuf-lite23/jammy 3.12.4-1ubuntu7 i386
 libprotobuf2-java/jammy,jammy 2.6.1-4 all
-libprotobuf23/jammy,now 3.12.4-1ubuntu7 amd64 [instalado, autodesinstalable]
+libprotobuf23/jammy 3.12.4-1ubuntu7 amd64
 libprotobuf23/jammy 3.12.4-1ubuntu7 i386
 libprotoc-dev/jammy 3.12.4-1ubuntu7 amd64
 libprotoc-dev/jammy 3.12.4-1ubuntu7 i386
@@ -38893,7 +38875,7 @@ libpsm-infinipath1-dbg/jammy 3.3+20.604758e7-6.1 amd64
 libpsm-infinipath1-dbg/jammy 3.3+20.604758e7-6.1 i386
 libpsm-infinipath1-dev/jammy 3.3+20.604758e7-6.1 amd64
 libpsm-infinipath1-dev/jammy 3.3+20.604758e7-6.1 i386
-libpsm-infinipath1/jammy,now 3.3+20.604758e7-6.1 amd64 [configuración-residual]
+libpsm-infinipath1/jammy 3.3+20.604758e7-6.1 amd64
 libpsm-infinipath1/jammy 3.3+20.604758e7-6.1 i386
 libpsm2-2-compat/jammy 11.2.185-1 amd64
 libpsm2-2/jammy 11.2.185-1 amd64
@@ -39048,7 +39030,7 @@ libpython3.12-testsuite/jammy,jammy 3.12.0~a2-1+jammy1 all
 libpython3.12/jammy 3.12.0~a2-1+jammy1 amd64
 libpython3.7-dbg/jammy 3.7.15-1+jammy1 amd64
 libpython3.7-dev/jammy 3.7.15-1+jammy1 amd64
-libpython3.7-minimal/jammy 3.7.15-1+jammy1 amd64 [configuración-residual]
+libpython3.7-minimal/jammy 3.7.15-1+jammy1 amd64
 libpython3.7-stdlib/jammy 3.7.15-1+jammy1 amd64
 libpython3.7-testsuite/jammy,jammy 3.7.15-1+jammy1 all
 libpython3.7/jammy 3.7.15-1+jammy1 amd64
@@ -39060,7 +39042,7 @@ libpython3.8-testsuite/jammy,jammy,now 3.8.15-1+jammy1 all [instalado, automáti
 libpython3.8/jammy,now 3.8.15-1+jammy1 amd64 [instalado, automático]
 libpython3.9-dbg/jammy 3.9.15-1+jammy1 amd64
 libpython3.9-dev/jammy 3.9.15-1+jammy1 amd64
-libpython3.9-minimal/jammy 3.9.15-1+jammy1 amd64 [configuración-residual]
+libpython3.9-minimal/jammy 3.9.15-1+jammy1 amd64
 libpython3.9-stdlib/jammy 3.9.15-1+jammy1 amd64
 libpython3.9-testsuite/jammy,jammy 3.9.15-1+jammy1 all
 libpython3.9/jammy 3.9.15-1+jammy1 amd64
@@ -39564,7 +39546,6 @@ libqtav-dev/jammy 1.13.0+ds-4build1 amd64
 libqtav-private-dev/jammy 1.13.0+ds-4build1 amd64
 libqtav1/jammy 1.13.0+ds-4build1 amd64
 libqtavwidgets1/jammy 1.13.0+ds-4build1 amd64
-libqtcore4/now 4:4.8.7+dfsg-7ubuntu3 amd64 [configuración-residual]
 libqtcurve-utils2/jammy 1.9-7build4 amd64
 libqtdbusmock1-common/jammy,jammy 0.7+bzr49+repack1-5 all
 libqtdbusmock1-dev/jammy 0.7+bzr49+repack1-5 amd64
@@ -42139,7 +42120,7 @@ libsasl2-modules-otp/jammy 2.1.27+dfsg2-3ubuntu1 i386
 libsasl2-modules-sql/jammy 2.1.27+dfsg2-3ubuntu1 amd64
 libsasl2-modules-sql/jammy 2.1.27+dfsg2-3ubuntu1 i386
 libsasl2-modules/jammy,now 2.1.27+dfsg2-3ubuntu1 amd64 [instalado]
-libsasl2-modules/jammy 2.1.27+dfsg2-3ubuntu1 i386 [configuración-residual]
+libsasl2-modules/jammy 2.1.27+dfsg2-3ubuntu1 i386
 libsass-dev/jammy 3.6.5-1ubuntu1 amd64
 libsass-dev/jammy 3.6.5-1ubuntu1 i386
 libsass1/jammy 3.6.5-1ubuntu1 amd64
@@ -42745,7 +42726,7 @@ libsmf-dev/jammy 1.3-4 amd64
 libsmf0/jammy 1.3-4 amd64
 libsmi2-common/jammy,jammy 0.4.8+dfsg2-16 all
 libsmi2-dev/jammy 0.4.8+dfsg2-16 amd64
-libsmi2ldbl/jammy,now 0.4.8+dfsg2-16 amd64 [configuración-residual]
+libsmi2ldbl/jammy 0.4.8+dfsg2-16 amd64
 libsmithwaterman-dev/jammy 0.0+git20160702.2610e25-12 amd64
 libsmithwaterman0/jammy 0.0+git20160702.2610e25-12 amd64
 libsml-dev/jammy 0.1.1+git20180125-1.1build1 amd64
@@ -43055,7 +43036,7 @@ libspiro1/jammy 1:20200505-2 i386
 libspirv-cross-c-shared-dev/jammy 2021.01.15-5 amd64
 libspirv-cross-c-shared0/jammy 2021.01.15-5 amd64
 libspnav-dev/jammy 0.2.3-1 amd64
-libspnav0/jammy,now 0.2.3-1 amd64 [configuración-residual]
+libspnav0/jammy 0.2.3-1 amd64
 libspoa-dev/jammy 4.0.7+ds-2 amd64
 libspoa7.0.0/jammy 4.0.7+ds-2 amd64
 libspock-java-doc/jammy,jammy 0.7-groovy-2.0-4 all
@@ -44729,7 +44710,7 @@ libtogl-dev/jammy,jammy 2.0-1.1 all
 libtogl2/jammy 2.0-1.1 amd64
 libtokyocabinet-dev/jammy 1.4.48-14build1 amd64
 libtokyocabinet-perl/jammy 1.34-2build8 amd64
-libtokyocabinet9/jammy,now 1.4.48-14build1 amd64 [instalado, autodesinstalable]
+libtokyocabinet9/jammy 1.4.48-14build1 amd64
 libtolua++5.1-dev/jammy 1.0.93+repack-0ubuntu2 amd64
 libtolua-dev/jammy 5.2.0-1build1 amd64
 libtomcat9-embed-java/jammy-updates,jammy-updates 9.0.58-1ubuntu0.1 all
@@ -45650,8 +45631,8 @@ libvips42/jammy 8.12.1-1build1 amd64
 libvirglrenderer-dev/jammy 0.9.1-1~exp1ubuntu2 amd64
 libvirglrenderer1/jammy 0.9.1-1~exp1ubuntu2 amd64
 libvirt-clients/jammy-updates 8.0.0-1ubuntu7.3 amd64
-libvirt-daemon-config-network/jammy-updates,jammy-updates 8.0.0-1ubuntu7.3 all [configuración-residual]
-libvirt-daemon-config-nwfilter/jammy-updates,jammy-updates 8.0.0-1ubuntu7.3 all [configuración-residual]
+libvirt-daemon-config-network/jammy-updates,jammy-updates 8.0.0-1ubuntu7.3 all
+libvirt-daemon-config-nwfilter/jammy-updates,jammy-updates 8.0.0-1ubuntu7.3 all
 libvirt-daemon-driver-lxc/jammy-updates 8.0.0-1ubuntu7.3 amd64
 libvirt-daemon-driver-qemu/jammy-updates 8.0.0-1ubuntu7.3 amd64
 libvirt-daemon-driver-storage-gluster/jammy-updates 8.0.0-1ubuntu7.3 amd64
@@ -46098,7 +46079,7 @@ libwiredtiger-java/jammy,jammy 3.2.1-1ubuntu1 all
 libwiredtiger0/jammy 3.2.1-1ubuntu1 amd64
 libwireplumber-0.4-0/jammy 0.4.8-4 amd64
 libwireplumber-0.4-dev/jammy 0.4.8-4 amd64
-libwireshark-data/jammy,jammy,now 3.6.2-2 all [configuración-residual]
+libwireshark-data/jammy,jammy 3.6.2-2 all
 libwireshark-dev/jammy 3.6.2-2 amd64
 libwireshark15/jammy 3.6.2-2 amd64
 libwiretap-dev/jammy 3.6.2-2 amd64
@@ -46184,7 +46165,7 @@ libwps-tools/jammy 0.4.12-2build1 amd64
 libwrap0-dev/jammy,now 7.6.q-31build2 amd64 [instalado, automático]
 libwrap0-dev/jammy 7.6.q-31build2 i386
 libwrap0/jammy,now 7.6.q-31build2 amd64 [instalado]
-libwrap0/jammy,now 7.6.q-31build2 i386 [configuración-residual]
+libwrap0/jammy 7.6.q-31build2 i386
 libwraster-dev/jammy 0.95.9-3 amd64
 libwraster6/jammy 0.95.9-3 amd64
 libwreport-dev/jammy 3.23-2ubuntu1 amd64
@@ -46762,7 +46743,7 @@ libxfce4ui-2-0/jammy 4.16.1-1 amd64
 libxfce4ui-2-0/jammy 4.16.1-1 i386
 libxfce4ui-2-dev/jammy 4.16.1-1 amd64
 libxfce4ui-2-dev/jammy 4.16.1-1 i386
-libxfce4ui-common/jammy,jammy,now 4.16.1-1 all [configuración-residual]
+libxfce4ui-common/jammy,jammy 4.16.1-1 all
 libxfce4ui-glade/jammy 4.16.1-1 amd64
 libxfce4ui-glade/jammy 4.16.1-1 i386
 libxfce4ui-utils/jammy 4.16.1-1 amd64
@@ -48302,23 +48283,6 @@ linux-ibm-tools-5.15.0-1017/jammy-updates,jammy-security 5.15.0-1017.20 amd64
 linux-ibm-tools-5.15.0-1018/jammy-updates,jammy-security 5.15.0-1018.21 amd64
 linux-ibm-tools-common/jammy-updates,jammy-updates,jammy-security,jammy-security 5.15.0-1018.21 all
 linux-ibm/jammy-updates,jammy-security 5.15.0.1018.16 amd64
-linux-image-5.0.0-13-generic/now 5.0.0-13.14 amd64 [configuración-residual]
-linux-image-5.0.0-27-generic/now 5.0.0-27.28 amd64 [configuración-residual]
-linux-image-5.0.0-31-generic/now 5.0.0-31.33 amd64 [configuración-residual]
-linux-image-5.11.0-41-generic/now 5.11.0-41.45 amd64 [configuración-residual]
-linux-image-5.13.0-22-generic/now 5.13.0-22.22 amd64 [configuración-residual]
-linux-image-5.13.0-23-generic/now 5.13.0-23.23 amd64 [configuración-residual]
-linux-image-5.13.0-25-generic/now 5.13.0-25.26 amd64 [configuración-residual]
-linux-image-5.13.0-27-generic/now 5.13.0-27.29 amd64 [configuración-residual]
-linux-image-5.13.0-28-generic/now 5.13.0-28.31 amd64 [configuración-residual]
-linux-image-5.13.0-30-generic/now 5.13.0-30.33 amd64 [configuración-residual]
-linux-image-5.13.0-35-generic/now 5.13.0-35.40 amd64 [configuración-residual]
-linux-image-5.13.0-39-generic/now 5.13.0-39.44 amd64 [configuración-residual]
-linux-image-5.13.0-40-generic/now 5.13.0-40.45 amd64 [configuración-residual]
-linux-image-5.13.0-41-generic/now 5.13.0-41.46 amd64 [configuración-residual]
-linux-image-5.13.0-44-generic/now 5.13.0-44.49 amd64 [configuración-residual]
-linux-image-5.13.0-46-generic/now 5.13.0-46.51 amd64 [configuración-residual]
-linux-image-5.13.0-48-generic/now 5.13.0-48.54 amd64 [configuración-residual]
 linux-image-5.13.0-51-generic/now 5.13.0-51.58 amd64 [instalado, local]
 linux-image-5.15.0-1001-gkeop/jammy-updates,jammy-security 5.15.0-1001.2 amd64
 linux-image-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
@@ -48446,21 +48410,21 @@ linux-image-5.15.0-35-generic/jammy-updates 5.15.0-35.36 amd64
 linux-image-5.15.0-35-lowlatency/jammy-updates 5.15.0-35.36 amd64
 linux-image-5.15.0-37-generic/jammy-updates,jammy-security 5.15.0-37.39 amd64
 linux-image-5.15.0-37-lowlatency/jammy-updates,jammy-security 5.15.0-37.39 amd64
-linux-image-5.15.0-39-generic/jammy-updates,jammy-security,now 5.15.0-39.42 amd64 [configuración-residual]
+linux-image-5.15.0-39-generic/jammy-updates,jammy-security 5.15.0-39.42 amd64
 linux-image-5.15.0-39-lowlatency/jammy-updates,jammy-security 5.15.0-39.42 amd64
-linux-image-5.15.0-40-generic/jammy-updates,now 5.15.0-40.43 amd64 [configuración-residual]
+linux-image-5.15.0-40-generic/jammy-updates 5.15.0-40.43 amd64
 linux-image-5.15.0-40-lowlatency/jammy-updates 5.15.0-40.43 amd64
-linux-image-5.15.0-41-generic/jammy-updates,jammy-security,now 5.15.0-41.44 amd64 [configuración-residual]
+linux-image-5.15.0-41-generic/jammy-updates,jammy-security 5.15.0-41.44 amd64
 linux-image-5.15.0-41-lowlatency/jammy-updates,jammy-security 5.15.0-41.44 amd64
-linux-image-5.15.0-43-generic/jammy-updates,jammy-security,now 5.15.0-43.46 amd64 [configuración-residual]
+linux-image-5.15.0-43-generic/jammy-updates,jammy-security 5.15.0-43.46 amd64
 linux-image-5.15.0-43-lowlatency/jammy-updates,jammy-security 5.15.0-43.46 amd64
-linux-image-5.15.0-46-generic/jammy-updates,jammy-security,now 5.15.0-46.49 amd64 [configuración-residual]
+linux-image-5.15.0-46-generic/jammy-updates,jammy-security 5.15.0-46.49 amd64
 linux-image-5.15.0-46-lowlatency/jammy-updates,jammy-security 5.15.0-46.49 amd64
-linux-image-5.15.0-47-generic/jammy-updates,jammy-security,now 5.15.0-47.51 amd64 [configuración-residual]
+linux-image-5.15.0-47-generic/jammy-updates,jammy-security 5.15.0-47.51 amd64
 linux-image-5.15.0-47-lowlatency/jammy-updates,jammy-security 5.15.0-47.53 amd64
-linux-image-5.15.0-48-generic/jammy-updates,jammy-security,now 5.15.0-48.54 amd64 [configuración-residual]
+linux-image-5.15.0-48-generic/jammy-updates,jammy-security 5.15.0-48.54 amd64
 linux-image-5.15.0-48-lowlatency/jammy-updates,jammy-security 5.15.0-48.54 amd64
-linux-image-5.15.0-50-generic/jammy-updates,jammy-security,now 5.15.0-50.56 amd64 [configuración-residual]
+linux-image-5.15.0-50-generic/jammy-updates,jammy-security 5.15.0-50.56 amd64
 linux-image-5.15.0-50-lowlatency/jammy-updates,jammy-security 5.15.0-50.56 amd64
 linux-image-5.15.0-52-generic/jammy-updates,jammy-security,now 5.15.0-52.58 amd64 [instalado, automático]
 linux-image-5.15.0-52-lowlatency/jammy-updates,jammy-security 5.15.0-52.58 amd64
@@ -48480,38 +48444,6 @@ linux-image-5.17.0-1018-oem/jammy-updates 5.17.0-1018.19 amd64
 linux-image-5.17.0-1019-oem/jammy-updates 5.17.0-1019.20 amd64
 linux-image-5.17.0-1020-oem/jammy-updates,jammy-security 5.17.0-1020.21 amd64
 linux-image-5.17.0-1021-oem/jammy-updates 5.17.0-1021.22 amd64
-linux-image-5.3.0-19-generic/now 5.3.0-19.20 amd64 [configuración-residual]
-linux-image-5.3.0-22-generic/now 5.3.0-22.24 amd64 [configuración-residual]
-linux-image-5.3.0-23-generic/now 5.3.0-23.25 amd64 [configuración-residual]
-linux-image-5.3.0-24-generic/now 5.3.0-24.26 amd64 [configuración-residual]
-linux-image-5.3.0-26-generic/now 5.3.0-26.28 amd64 [configuración-residual]
-linux-image-5.3.0-29-generic/now 5.3.0-29.31 amd64 [configuración-residual]
-linux-image-5.3.0-40-generic/now 5.3.0-40.32 amd64 [configuración-residual]
-linux-image-5.3.0-42-generic/now 5.3.0-42.34 amd64 [configuración-residual]
-linux-image-5.3.0-45-generic/now 5.3.0-45.37 amd64 [configuración-residual]
-linux-image-5.3.0-46-generic/now 5.3.0-46.38 amd64 [configuración-residual]
-linux-image-5.4.0-26-generic/now 5.4.0-26.30 amd64 [configuración-residual]
-linux-image-5.4.0-28-generic/now 5.4.0-28.32 amd64 [configuración-residual]
-linux-image-5.4.0-29-generic/now 5.4.0-29.33 amd64 [configuración-residual]
-linux-image-5.4.0-31-generic/now 5.4.0-31.35 amd64 [configuración-residual]
-linux-image-5.4.0-33-generic/now 5.4.0-33.37 amd64 [configuración-residual]
-linux-image-5.4.0-37-generic/now 5.4.0-37.41 amd64 [configuración-residual]
-linux-image-5.4.0-39-generic/now 5.4.0-39.43 amd64 [configuración-residual]
-linux-image-5.4.0-42-generic/now 5.4.0-42.46 amd64 [configuración-residual]
-linux-image-5.4.0-45-generic/now 5.4.0-45.49 amd64 [configuración-residual]
-linux-image-5.4.0-48-generic/now 5.4.0-48.52 amd64 [configuración-residual]
-linux-image-5.4.0-52-generic/now 5.4.0-52.57 amd64 [configuración-residual]
-linux-image-5.4.0-54-generic/now 5.4.0-54.60 amd64 [configuración-residual]
-linux-image-5.4.0-60-generic/now 5.4.0-60.67 amd64 [configuración-residual]
-linux-image-5.4.0-65-generic/now 5.4.0-65.73 amd64 [configuración-residual]
-linux-image-5.4.0-66-generic/now 5.4.0-66.74 amd64 [configuración-residual]
-linux-image-5.4.0-72-generic/now 5.4.0-72.80 amd64 [configuración-residual]
-linux-image-5.4.0-74-generic/now 5.4.0-74.83 amd64 [configuración-residual]
-linux-image-5.4.0-77-generic/now 5.4.0-77.86 amd64 [configuración-residual]
-linux-image-5.4.0-80-generic/now 5.4.0-80.90 amd64 [configuración-residual]
-linux-image-5.4.0-81-generic/now 5.4.0-81.91 amd64 [configuración-residual]
-linux-image-5.4.0-86-generic/now 5.4.0-86.97 amd64 [configuración-residual]
-linux-image-5.4.0-88-generic/now 5.4.0-88.99 amd64 [configuración-residual]
 linux-image-5.4.0-91-generic/now 5.4.0-91.102 amd64 [instalado, local]
 linux-image-6.0.0-1006-oem/jammy-updates 6.0.0-1006.6 amd64
 linux-image-6.0.0-1007-oem/jammy-updates,jammy-security 6.0.0-1007.7 amd64
@@ -48859,24 +48791,6 @@ linux-lowlatency-tools-5.15.0-53/jammy-updates,jammy-security 5.15.0-53.59 amd64
 linux-lowlatency-tools-common/jammy-updates,jammy-updates,jammy-security,jammy-security 5.15.0-53.59 all
 linux-lowlatency-tools-host/jammy-updates,jammy-updates,jammy-security,jammy-security 5.15.0-53.59 all
 linux-lowlatency/jammy-updates,jammy-security 5.15.0.53.48 amd64
-linux-modules-5.0.0-13-generic/now 5.0.0-13.14 amd64 [configuración-residual]
-linux-modules-5.0.0-27-generic/now 5.0.0-27.28 amd64 [configuración-residual]
-linux-modules-5.0.0-31-generic/now 5.0.0-31.33 amd64 [configuración-residual]
-linux-modules-5.0.0-32-generic/now 5.0.0-32.34 amd64 [configuración-residual]
-linux-modules-5.11.0-41-generic/now 5.11.0-41.45 amd64 [configuración-residual]
-linux-modules-5.13.0-22-generic/now 5.13.0-22.22 amd64 [configuración-residual]
-linux-modules-5.13.0-23-generic/now 5.13.0-23.23 amd64 [configuración-residual]
-linux-modules-5.13.0-25-generic/now 5.13.0-25.26 amd64 [configuración-residual]
-linux-modules-5.13.0-27-generic/now 5.13.0-27.29 amd64 [configuración-residual]
-linux-modules-5.13.0-28-generic/now 5.13.0-28.31 amd64 [configuración-residual]
-linux-modules-5.13.0-30-generic/now 5.13.0-30.33 amd64 [configuración-residual]
-linux-modules-5.13.0-35-generic/now 5.13.0-35.40 amd64 [configuración-residual]
-linux-modules-5.13.0-39-generic/now 5.13.0-39.44 amd64 [configuración-residual]
-linux-modules-5.13.0-40-generic/now 5.13.0-40.45 amd64 [configuración-residual]
-linux-modules-5.13.0-41-generic/now 5.13.0-41.46 amd64 [configuración-residual]
-linux-modules-5.13.0-44-generic/now 5.13.0-44.49 amd64 [configuración-residual]
-linux-modules-5.13.0-46-generic/now 5.13.0-46.51 amd64 [configuración-residual]
-linux-modules-5.13.0-48-generic/now 5.13.0-48.54 amd64 [configuración-residual]
 linux-modules-5.13.0-51-generic/now 5.13.0-51.58 amd64 [instalado, local]
 linux-modules-5.15.0-1001-gkeop/jammy-updates,jammy-security 5.15.0-1001.2 amd64
 linux-modules-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
@@ -49003,21 +48917,21 @@ linux-modules-5.15.0-35-generic/jammy-updates 5.15.0-35.36 amd64
 linux-modules-5.15.0-35-lowlatency/jammy-updates 5.15.0-35.36 amd64
 linux-modules-5.15.0-37-generic/jammy-updates,jammy-security 5.15.0-37.39 amd64
 linux-modules-5.15.0-37-lowlatency/jammy-updates,jammy-security 5.15.0-37.39 amd64
-linux-modules-5.15.0-39-generic/jammy-updates,jammy-security,now 5.15.0-39.42 amd64 [configuración-residual]
+linux-modules-5.15.0-39-generic/jammy-updates,jammy-security 5.15.0-39.42 amd64
 linux-modules-5.15.0-39-lowlatency/jammy-updates,jammy-security 5.15.0-39.42 amd64
-linux-modules-5.15.0-40-generic/jammy-updates,now 5.15.0-40.43 amd64 [configuración-residual]
+linux-modules-5.15.0-40-generic/jammy-updates 5.15.0-40.43 amd64
 linux-modules-5.15.0-40-lowlatency/jammy-updates 5.15.0-40.43 amd64
-linux-modules-5.15.0-41-generic/jammy-updates,jammy-security,now 5.15.0-41.44 amd64 [configuración-residual]
+linux-modules-5.15.0-41-generic/jammy-updates,jammy-security 5.15.0-41.44 amd64
 linux-modules-5.15.0-41-lowlatency/jammy-updates,jammy-security 5.15.0-41.44 amd64
-linux-modules-5.15.0-43-generic/jammy-updates,jammy-security,now 5.15.0-43.46 amd64 [configuración-residual]
+linux-modules-5.15.0-43-generic/jammy-updates,jammy-security 5.15.0-43.46 amd64
 linux-modules-5.15.0-43-lowlatency/jammy-updates,jammy-security 5.15.0-43.46 amd64
-linux-modules-5.15.0-46-generic/jammy-updates,jammy-security,now 5.15.0-46.49 amd64 [configuración-residual]
+linux-modules-5.15.0-46-generic/jammy-updates,jammy-security 5.15.0-46.49 amd64
 linux-modules-5.15.0-46-lowlatency/jammy-updates,jammy-security 5.15.0-46.49 amd64
-linux-modules-5.15.0-47-generic/jammy-updates,jammy-security,now 5.15.0-47.51 amd64 [configuración-residual]
+linux-modules-5.15.0-47-generic/jammy-updates,jammy-security 5.15.0-47.51 amd64
 linux-modules-5.15.0-47-lowlatency/jammy-updates,jammy-security 5.15.0-47.53 amd64
-linux-modules-5.15.0-48-generic/jammy-updates,jammy-security,now 5.15.0-48.54 amd64 [configuración-residual]
+linux-modules-5.15.0-48-generic/jammy-updates,jammy-security 5.15.0-48.54 amd64
 linux-modules-5.15.0-48-lowlatency/jammy-updates,jammy-security 5.15.0-48.54 amd64
-linux-modules-5.15.0-50-generic/jammy-updates,jammy-security,now 5.15.0-50.56 amd64 [configuración-residual]
+linux-modules-5.15.0-50-generic/jammy-updates,jammy-security 5.15.0-50.56 amd64
 linux-modules-5.15.0-50-lowlatency/jammy-updates,jammy-security 5.15.0-50.56 amd64
 linux-modules-5.15.0-52-generic/jammy-updates,jammy-security,now 5.15.0-52.58 amd64 [instalado, automático]
 linux-modules-5.15.0-52-lowlatency/jammy-updates,jammy-security 5.15.0-52.58 amd64
@@ -49037,58 +48951,9 @@ linux-modules-5.17.0-1018-oem/jammy-updates 5.17.0-1018.19 amd64
 linux-modules-5.17.0-1019-oem/jammy-updates 5.17.0-1019.20 amd64
 linux-modules-5.17.0-1020-oem/jammy-updates,jammy-security 5.17.0-1020.21 amd64
 linux-modules-5.17.0-1021-oem/jammy-updates 5.17.0-1021.22 amd64
-linux-modules-5.3.0-19-generic/now 5.3.0-19.20 amd64 [configuración-residual]
-linux-modules-5.3.0-22-generic/now 5.3.0-22.24 amd64 [configuración-residual]
-linux-modules-5.3.0-23-generic/now 5.3.0-23.25 amd64 [configuración-residual]
-linux-modules-5.3.0-24-generic/now 5.3.0-24.26 amd64 [configuración-residual]
-linux-modules-5.3.0-26-generic/now 5.3.0-26.28 amd64 [configuración-residual]
-linux-modules-5.3.0-29-generic/now 5.3.0-29.31 amd64 [configuración-residual]
-linux-modules-5.3.0-40-generic/now 5.3.0-40.32 amd64 [configuración-residual]
-linux-modules-5.3.0-42-generic/now 5.3.0-42.34 amd64 [configuración-residual]
-linux-modules-5.3.0-45-generic/now 5.3.0-45.37 amd64 [configuración-residual]
-linux-modules-5.3.0-46-generic/now 5.3.0-46.38 amd64 [configuración-residual]
-linux-modules-5.4.0-26-generic/now 5.4.0-26.30 amd64 [configuración-residual]
-linux-modules-5.4.0-28-generic/now 5.4.0-28.32 amd64 [configuración-residual]
-linux-modules-5.4.0-29-generic/now 5.4.0-29.33 amd64 [configuración-residual]
-linux-modules-5.4.0-31-generic/now 5.4.0-31.35 amd64 [configuración-residual]
-linux-modules-5.4.0-33-generic/now 5.4.0-33.37 amd64 [configuración-residual]
-linux-modules-5.4.0-39-generic/now 5.4.0-39.43 amd64 [configuración-residual]
-linux-modules-5.4.0-42-generic/now 5.4.0-42.46 amd64 [configuración-residual]
-linux-modules-5.4.0-45-generic/now 5.4.0-45.49 amd64 [configuración-residual]
-linux-modules-5.4.0-48-generic/now 5.4.0-48.52 amd64 [configuración-residual]
-linux-modules-5.4.0-54-generic/now 5.4.0-54.60 amd64 [configuración-residual]
-linux-modules-5.4.0-60-generic/now 5.4.0-60.67 amd64 [configuración-residual]
-linux-modules-5.4.0-65-generic/now 5.4.0-65.73 amd64 [configuración-residual]
-linux-modules-5.4.0-66-generic/now 5.4.0-66.74 amd64 [configuración-residual]
-linux-modules-5.4.0-72-generic/now 5.4.0-72.80 amd64 [configuración-residual]
-linux-modules-5.4.0-74-generic/now 5.4.0-74.83 amd64 [configuración-residual]
-linux-modules-5.4.0-77-generic/now 5.4.0-77.86 amd64 [configuración-residual]
-linux-modules-5.4.0-80-generic/now 5.4.0-80.90 amd64 [configuración-residual]
-linux-modules-5.4.0-81-generic/now 5.4.0-81.91 amd64 [configuración-residual]
-linux-modules-5.4.0-86-generic/now 5.4.0-86.97 amd64 [configuración-residual]
-linux-modules-5.4.0-88-generic/now 5.4.0-88.99 amd64 [configuración-residual]
-linux-modules-5.4.0-90-generic/now 5.4.0-90.101 amd64 [configuración-residual]
 linux-modules-5.4.0-91-generic/now 5.4.0-91.102 amd64 [instalado, local]
 linux-modules-6.0.0-1006-oem/jammy-updates 6.0.0-1006.6 amd64
 linux-modules-6.0.0-1007-oem/jammy-updates,jammy-security 6.0.0-1007.7 amd64
-linux-modules-extra-5.0.0-13-generic/now 5.0.0-13.14 amd64 [configuración-residual]
-linux-modules-extra-5.0.0-27-generic/now 5.0.0-27.28 amd64 [configuración-residual]
-linux-modules-extra-5.0.0-31-generic/now 5.0.0-31.33 amd64 [configuración-residual]
-linux-modules-extra-5.0.0-32-generic/now 5.0.0-32.34 amd64 [configuración-residual]
-linux-modules-extra-5.11.0-41-generic/now 5.11.0-41.45 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-22-generic/now 5.13.0-22.22 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-23-generic/now 5.13.0-23.23 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-25-generic/now 5.13.0-25.26 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-27-generic/now 5.13.0-27.29 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-28-generic/now 5.13.0-28.31 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-30-generic/now 5.13.0-30.33 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-35-generic/now 5.13.0-35.40 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-39-generic/now 5.13.0-39.44 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-40-generic/now 5.13.0-40.45 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-41-generic/now 5.13.0-41.46 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-44-generic/now 5.13.0-44.49 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-46-generic/now 5.13.0-46.51 amd64 [configuración-residual]
-linux-modules-extra-5.13.0-48-generic/now 5.13.0-48.54 amd64 [configuración-residual]
 linux-modules-extra-5.13.0-51-generic/now 5.13.0-51.58 amd64 [instalado, local]
 linux-modules-extra-5.15.0-1001-gkeop/jammy-updates,jammy-security 5.15.0-1001.2 amd64
 linux-modules-extra-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
@@ -49194,47 +49059,16 @@ linux-modules-extra-5.15.0-30-generic/jammy-updates 5.15.0-30.31 amd64
 linux-modules-extra-5.15.0-33-generic/jammy-updates,jammy-security 5.15.0-33.34 amd64
 linux-modules-extra-5.15.0-35-generic/jammy-updates 5.15.0-35.36 amd64
 linux-modules-extra-5.15.0-37-generic/jammy-updates,jammy-security 5.15.0-37.39 amd64
-linux-modules-extra-5.15.0-39-generic/jammy-updates,jammy-security,now 5.15.0-39.42 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-40-generic/jammy-updates,now 5.15.0-40.43 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-41-generic/jammy-updates,jammy-security,now 5.15.0-41.44 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-43-generic/jammy-updates,jammy-security,now 5.15.0-43.46 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-46-generic/jammy-updates,jammy-security,now 5.15.0-46.49 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-47-generic/jammy-updates,jammy-security,now 5.15.0-47.51 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-48-generic/jammy-updates,jammy-security,now 5.15.0-48.54 amd64 [configuración-residual]
-linux-modules-extra-5.15.0-50-generic/jammy-updates,jammy-security,now 5.15.0-50.56 amd64 [configuración-residual]
+linux-modules-extra-5.15.0-39-generic/jammy-updates,jammy-security 5.15.0-39.42 amd64
+linux-modules-extra-5.15.0-40-generic/jammy-updates 5.15.0-40.43 amd64
+linux-modules-extra-5.15.0-41-generic/jammy-updates,jammy-security 5.15.0-41.44 amd64
+linux-modules-extra-5.15.0-43-generic/jammy-updates,jammy-security 5.15.0-43.46 amd64
+linux-modules-extra-5.15.0-46-generic/jammy-updates,jammy-security 5.15.0-46.49 amd64
+linux-modules-extra-5.15.0-47-generic/jammy-updates,jammy-security 5.15.0-47.51 amd64
+linux-modules-extra-5.15.0-48-generic/jammy-updates,jammy-security 5.15.0-48.54 amd64
+linux-modules-extra-5.15.0-50-generic/jammy-updates,jammy-security 5.15.0-50.56 amd64
 linux-modules-extra-5.15.0-52-generic/jammy-updates,jammy-security,now 5.15.0-52.58 amd64 [instalado, automático]
 linux-modules-extra-5.15.0-53-generic/jammy-updates,jammy-security,now 5.15.0-53.59 amd64 [instalado, automático]
-linux-modules-extra-5.3.0-19-generic/now 5.3.0-19.20 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-22-generic/now 5.3.0-22.24 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-23-generic/now 5.3.0-23.25 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-24-generic/now 5.3.0-24.26 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-26-generic/now 5.3.0-26.28 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-29-generic/now 5.3.0-29.31 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-40-generic/now 5.3.0-40.32 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-42-generic/now 5.3.0-42.34 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-45-generic/now 5.3.0-45.37 amd64 [configuración-residual]
-linux-modules-extra-5.3.0-46-generic/now 5.3.0-46.38 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-26-generic/now 5.4.0-26.30 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-28-generic/now 5.4.0-28.32 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-29-generic/now 5.4.0-29.33 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-31-generic/now 5.4.0-31.35 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-33-generic/now 5.4.0-33.37 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-39-generic/now 5.4.0-39.43 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-42-generic/now 5.4.0-42.46 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-45-generic/now 5.4.0-45.49 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-52-generic/now 5.4.0-52.57 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-54-generic/now 5.4.0-54.60 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-60-generic/now 5.4.0-60.67 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-65-generic/now 5.4.0-65.73 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-66-generic/now 5.4.0-66.74 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-72-generic/now 5.4.0-72.80 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-74-generic/now 5.4.0-74.83 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-77-generic/now 5.4.0-77.86 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-80-generic/now 5.4.0-80.90 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-81-generic/now 5.4.0-81.91 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-86-generic/now 5.4.0-86.97 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-88-generic/now 5.4.0-88.99 amd64 [configuración-residual]
-linux-modules-extra-5.4.0-90-generic/now 5.4.0-90.101 amd64 [configuración-residual]
 linux-modules-extra-5.4.0-91-generic/now 5.4.0-91.102 amd64 [instalado, local]
 linux-modules-extra-aws-lts-22.04/jammy-updates,jammy-security 5.15.0.1023.23 amd64
 linux-modules-extra-aws/jammy-updates,jammy-security 5.15.0.1023.23 amd64
@@ -52256,7 +52090,7 @@ lswm/jammy 0.6.91-2ubuntu1 amd64
 lsyncd/jammy 2.2.3-1 amd64
 lto-disabled-list/jammy,jammy,now 24 all [instalado, automático]
 ltpanel/jammy 0.2-8 amd64
-ltrace/jammy,now 0.7.3-6.1ubuntu6 amd64 [configuración-residual]
+ltrace/jammy 0.7.3-6.1ubuntu6 amd64
 ltris/jammy 1.0.19-3build1 amd64
 ltrsift/jammy 1.0.2-9build1 amd64
 ltsp/jammy,jammy 22.01-2 all
@@ -52315,7 +52149,7 @@ lua-expat-dev/jammy 1.3.0-5 amd64
 lua-expat/jammy 1.3.0-5 amd64
 lua-fifo/jammy,jammy 0.2-3.1 all
 lua-filesystem-dev/jammy 1.8.0-2 amd64
-lua-filesystem/jammy 1.8.0-2 amd64 [configuración-residual]
+lua-filesystem/jammy 1.8.0-2 amd64
 lua-geoip-dev/jammy 0.2-2 amd64
 lua-geoip/jammy 0.2-2 amd64
 lua-guestfs/jammy 1:1.46.2-10ubuntu3 amd64
@@ -52499,7 +52333,7 @@ lv/jammy 4.51-8 amd64
 lvm2-dbusd/jammy,jammy 2.03.11-2.1ubuntu4 all
 lvm2-lockd/jammy 2.03.11-2.1ubuntu4 amd64
 lvm2-lockd/jammy 2.03.11-2.1ubuntu4 i386
-lvm2/jammy,now 2.03.11-2.1ubuntu4 amd64 [configuración-residual]
+lvm2/jammy 2.03.11-2.1ubuntu4 amd64
 lvm2/jammy 2.03.11-2.1ubuntu4 i386
 lwatch/jammy 0.6.2-3 amd64
 lwm/jammy 1.2.2-6 amd64
@@ -53236,7 +53070,7 @@ menu-xdg/jammy,jammy 0.7 all
 menu/jammy 2.1.47ubuntu4 amd64
 menulibre/jammy,jammy 2.2.2-1 all
 mercantile/jammy,jammy 1.1.5-1 all
-mercurial-common/jammy,jammy,now 6.1.1-1ubuntu1 all [configuración-residual]
+mercurial-common/jammy,jammy 6.1.1-1ubuntu1 all
 mercurial-git/jammy,jammy 0.10.4-3 all
 mercurial-keyring/jammy,jammy 1.3.1-3 all
 mercurial/jammy 6.1.1-1ubuntu1 amd64
@@ -53621,7 +53455,7 @@ modernize/jammy,jammy 0.7-2 all
 modplug-tools/jammy 0.5.6-2 amd64
 modsecurity-crs/jammy,jammy 3.3.2-1 all
 module-assistant/jammy,jammy 0.11.10 all
-moka-icon-theme/jammy,jammy 5.4.0.4-1 all [configuración-residual]
+moka-icon-theme/jammy,jammy 5.4.0.4-1 all
 mokomaze/jammy 0.7.1-1build1 amd64
 mokutil/jammy,now 0.4.0-1ubuntu2 amd64 [instalado]
 mold/jammy 1.0.3+dfsg-2 amd64
@@ -53859,7 +53693,7 @@ mptcpd/jammy 0.9-1 amd64
 mptcpize/jammy 0.9-1 amd64
 mptp/jammy 0.2.4-3build1 amd64
 mpv-mpris/jammy 0.6-2 amd64
-mpv/jammy,now 0.34.1-1ubuntu3 amd64 [configuración-residual]
+mpv/jammy 0.34.1-1ubuntu3 amd64
 mrb/jammy,jammy 0.3+nmu1 all
 mrbayes-doc/jammy,jammy 3.2.7a-5 all
 mrbayes-mpi/jammy 3.2.7a-5 amd64
@@ -56329,7 +56163,7 @@ ntopng-data/jammy,jammy 5.2.1+dfsg1-1 all
 ntopng-doc/jammy,jammy 5.2.1+dfsg1-1 all
 ntopng/jammy 5.2.1+dfsg1-1 amd64
 ntp-doc/jammy,jammy 1:4.2.8p15+dfsg-1ubuntu2 all
-ntp/jammy 1:4.2.8p15+dfsg-1ubuntu2 amd64 [configuración-residual]
+ntp/jammy 1:4.2.8p15+dfsg-1ubuntu2 amd64
 ntpdate/jammy 1:4.2.8p15+dfsg-1ubuntu2 amd64
 ntpsec-doc/jammy,jammy 1.2.1+dfsg1-4 all
 ntpsec-ntpdate/jammy 1.2.1+dfsg1-4 amd64
@@ -56857,7 +56691,7 @@ odbc-mdbtools/jammy 1.0.0+dfsg-1 amd64
 odbc-postgresql/jammy 1:13.02.0000-2 amd64
 odbcinst1debian2/jammy 2.3.9-5 amd64
 odbcinst1debian2/jammy 2.3.9-5 i386
-odbcinst/jammy,now 2.3.9-5 amd64 [configuración-residual]
+odbcinst/jammy 2.3.9-5 amd64
 odbcinst/jammy 2.3.9-5 i386
 odc/jammy 1.4.4-1 amd64
 oddjob-mkhomedir/jammy 0.34.6-1 amd64
@@ -57250,7 +57084,7 @@ openmcdf/jammy,jammy 1.5.4-3 all
 openmolcas-data/jammy,jammy 21.10-1ubuntu1 all
 openmolcas/jammy 21.10-1ubuntu1 amd64
 openmotor/jammy,jammy 0.4.0-4 all
-openmpi-bin/jammy 4.1.2-2ubuntu1 amd64 [configuración-residual]
+openmpi-bin/jammy 4.1.2-2ubuntu1 amd64
 openmpi-bin/jammy 4.1.2-2ubuntu1 i386
 openmpi-common/jammy,jammy 4.1.2-2ubuntu1 all
 openmpi-doc/jammy,jammy 4.1.2-2ubuntu1 all
@@ -58662,16 +58496,6 @@ php-zeta-unit-test/jammy,jammy 1.1.7-1 all
 php-zip/jammy,jammy 2:8.1+92ubuntu1 all
 php-zmq-all-dev/jammy,jammy 1.1.3-23 all
 php-zmq/jammy 1.1.3-23 amd64
-php7.4-cli/now 7.4.16-1ubuntu2.3 amd64 [configuración-residual]
-php7.4-common/now 7.4.16-1ubuntu2.3 amd64 [configuración-residual]
-php7.4-json/now 7.4.16-1ubuntu2.3 amd64 [configuración-residual]
-php7.4-opcache/now 7.4.16-1ubuntu2.3 amd64 [configuración-residual]
-php7.4-readline/now 7.4.16-1ubuntu2.3 amd64 [configuración-residual]
-php8.0-cli/now 8.0.8-1ubuntu0.4 amd64 [configuración-residual]
-php8.0-common/now 8.0.8-1ubuntu0.4 amd64 [configuración-residual]
-php8.0-curl/now 8.0.8-1ubuntu0.4 amd64 [configuración-residual]
-php8.0-opcache/now 8.0.8-1ubuntu0.4 amd64 [configuración-residual]
-php8.0-readline/now 8.0.8-1ubuntu0.4 amd64 [configuración-residual]
 php8.1-amqp/jammy 1.11.0-4 amd64
 php8.1-apcu/jammy 5.1.21+4.0.11-7ubuntu1 amd64
 php8.1-ast/jammy 1.0.16-4 amd64
@@ -59228,7 +59052,6 @@ policycoreutils/jammy 3.3-1build1 amd64
 policyd-rate-limit/jammy,jammy 1.0.1.1-2 all
 policyd-weight/jammy,jammy 0.1.15.2-12 all
 policykit-1-doc/jammy,jammy 0.105-33 all
-policykit-1-fingerprint-gui/now 1.09-dfsg1-0ppa2~disco1 amd64 [configuración-residual]
 policykit-1-gnome/jammy 0.105-7ubuntu3 amd64
 policykit-1/jammy,now 0.105-33 amd64 [instalado]
 policykit-1/jammy 0.105-33 i386
@@ -59268,7 +59091,7 @@ poppassd/jammy 1.8.5-6 amd64
 poppler-data/jammy,jammy,now 0.4.11-1 all [instalado]
 poppler-utils/jammy-updates,jammy-security,now 22.02.0-2ubuntu0.1 amd64 [instalado]
 poppler-utils/jammy-updates,jammy-security 22.02.0-2ubuntu0.1 i386
-popularity-contest/jammy,jammy 1.71ubuntu3 all [configuración-residual]
+popularity-contest/jammy,jammy 1.71ubuntu3 all
 populations/jammy 1.2.33+svn0120106+dfsg-6 amd64
 porechop/jammy 0.2.4+dfsg-3 amd64
 poretools-data/jammy,jammy 0.6.0+dfsg-5 all
@@ -59442,9 +59265,9 @@ ppp-dev/jammy,jammy 2.4.9-1+1ubuntu3 all
 ppp-gatekeeper/jammy,jammy 0.1.0-201406111015-1.1 all
 ppp/jammy,now 2.4.9-1+1ubuntu3 amd64 [instalado]
 ppp/jammy 2.4.9-1+1ubuntu3 i386
-pppconfig/jammy,jammy 2.3.26 all [configuración-residual]
+pppconfig/jammy,jammy 2.3.26 all
 pppoe/jammy 3.12-1.2ubuntu3 amd64
-pppoeconf/jammy,jammy 1.21+nmu2ubuntu1 all [configuración-residual]
+pppoeconf/jammy,jammy 1.21+nmu2ubuntu1 all
 pps-tools/jammy 1.0.2-2 amd64
 ppsh/jammy 1.10-1build3.1 amd64
 pptp-linux/jammy,now 1.10.0-1build3 amd64 [instalado]
@@ -59525,7 +59348,7 @@ printer-driver-escpr/jammy 1.7.17-2 amd64
 printer-driver-foo2zjs-common/jammy,jammy,now 20200505dfsg0-2ubuntu2 all [instalado]
 printer-driver-foo2zjs/jammy,now 20200505dfsg0-2ubuntu2 amd64 [instalado]
 printer-driver-fujixerox/jammy 1.1.0+ds-4 amd64
-printer-driver-gutenprint/jammy 5.3.3-9 amd64 [configuración-residual]
+printer-driver-gutenprint/jammy 5.3.3-9 amd64
 printer-driver-hpcups/jammy,now 3.21.12+dfsg0-1 amd64 [instalado]
 printer-driver-hpijs/jammy 3.21.12+dfsg0-1 amd64
 printer-driver-indexbraille/jammy 1.2.3-4 amd64
@@ -59678,7 +59501,7 @@ proot/jammy 5.1.0-1.3 amd64
 propaganda-debian/jammy,jammy 13.5.10+nmu1 all
 propellor/jammy 5.13-1 amd64
 prosody-modules/jammy,jammy 0.0~hg20210130.dd3bfe8f182e+dfsg-2 all
-prosody/jammy 0.11.13-1 amd64 [configuración-residual]
+prosody/jammy 0.11.13-1 amd64
 proteinortho/jammy 6.0.33+dfsg-1 amd64
 protobuf-c-compiler/jammy-updates,jammy-security 1.3.3-1ubuntu2.1 amd64
 protobuf-c-compiler/jammy-updates,jammy-security 1.3.3-1ubuntu2.1 i386
@@ -60004,7 +59827,7 @@ pykwalify/jammy 1.8.0-1 amd64
 pylama/jammy,jammy 7.4.3-3 all
 pyliblo-utils/jammy,jammy 0.10.0-5build1 all
 pylint-doc/jammy,jammy 2.12.2-1 all
-pylint/jammy,jammy 2.12.2-1 all [configuración-residual]
+pylint/jammy,jammy 2.12.2-1 all
 pymacs/jammy,jammy 0.25-3 all
 pymca-data/jammy,jammy 5.7.1+dfsg-1build1 all
 pymca-doc/jammy,jammy 5.7.1+dfsg-1build1 all
@@ -60662,7 +60485,6 @@ python-pygame-doc/jammy,jammy 2.1.2+dfsg-3 all
 python-pygccxml-doc/jammy,jammy 2.2.1-1 all
 python-pygit2-doc/jammy,jammy 1.6.1+dfsg-2 all
 python-pygments-doc/jammy,jammy 2.11.2+dfsg-2 all
-python-pygments/now 2.3.1+dfsg-1ubuntu2 all [configuración-residual]
 python-pygmsh-doc/jammy,jammy 7.1.17-1 all
 python-pygraphviz-doc/jammy,jammy 1.7-3build1 all
 python-pygresql-doc/jammy,jammy 1:5.1.2-1build4 all
@@ -63490,7 +63312,7 @@ python3-proxmoxer/jammy,jammy 1.2.0-2 all
 python3-psautohint/jammy 2.3.0-1build1 amd64
 python3-pskc/jammy,jammy 1.1-3 all
 python3-psshlib/jammy,jammy 2.3.4-2 all
-python3-psutil/jammy 5.9.0-1build1 amd64
+python3-psutil/jammy,now 5.9.0-1build1 amd64 [instalado, automático]
 python3-psycogreen/jammy,jammy 1.0.1-1.1 all
 python3-psycopg2/jammy,now 2.9.2-1build2 amd64 [instalado, automático]
 python3-psycopg2cffi/jammy 2.8.1-2build1 amd64
@@ -64709,7 +64531,7 @@ python3-ttystatus/jammy,jammy 0.38-4 all
 python3-tvdb-api/jammy,jammy 3.1-1 all
 python3-tweepy/jammy,jammy 4.5.0-1 all
 python3-twilio/jammy,jammy 7.1.0+ds-1 all
-python3-twisted/jammy-updates,jammy-updates,jammy-security,jammy-security,now 22.1.0-2ubuntu2.3 all [configuración-residual]
+python3-twisted/jammy-updates,jammy-updates,jammy-security,jammy-security 22.1.0-2ubuntu2.3 all
 python3-twitter/jammy,jammy 3.3-2 all
 python3-twodict/jammy,jammy 1.2-2ubuntu1 all
 python3-twython/jammy,jammy 3.8.2+dfsg-2 all
@@ -65117,7 +64939,7 @@ python3.7-full/jammy 3.7.15-1+jammy1 amd64
 python3.7-gdbm-dbg/jammy 3.7.15-1+jammy1 amd64
 python3.7-gdbm/jammy 3.7.15-1+jammy1 amd64
 python3.7-lib2to3/jammy,jammy 3.7.15-1+jammy1 all
-python3.7-minimal/jammy 3.7.15-1+jammy1 amd64 [configuración-residual]
+python3.7-minimal/jammy 3.7.15-1+jammy1 amd64
 python3.7-tk-dbg/jammy 3.7.15-1+jammy1 amd64
 python3.7-tk/jammy 3.7.15-1+jammy1 amd64
 python3.7-venv/jammy 3.7.15-1+jammy1 amd64
@@ -65143,14 +64965,13 @@ python3.9-full/jammy 3.9.15-1+jammy1 amd64
 python3.9-gdbm-dbg/jammy 3.9.15-1+jammy1 amd64
 python3.9-gdbm/jammy 3.9.15-1+jammy1 amd64
 python3.9-lib2to3/jammy,jammy 3.9.15-1+jammy1 all
-python3.9-minimal/jammy 3.9.15-1+jammy1 amd64 [configuración-residual]
+python3.9-minimal/jammy 3.9.15-1+jammy1 amd64
 python3.9-tk-dbg/jammy 3.9.15-1+jammy1 amd64
 python3.9-tk/jammy 3.9.15-1+jammy1 amd64
-python3.9-venv/jammy 3.9.15-1+jammy1 amd64 [configuración-residual]
+python3.9-venv/jammy 3.9.15-1+jammy1 amd64
 python3.9/jammy 3.9.15-1+jammy1 amd64
 python3/jammy-updates,now 3.10.6-1~22.04 amd64 [instalado]
 python3/jammy-updates 3.10.6-1~22.04 i386
-python/now 2.7.17-1 amd64 [configuración-residual]
 pythonpy/jammy,jammy 0.4.11b-3ubuntu1 all
 pytidylib-doc/jammy,jammy 0.3.2~dfsg-7 all
 pytrainer/jammy,jammy 2.0.2-2 all
@@ -65229,14 +65050,13 @@ qdoc-qt5/jammy 5.15.3-1 i386
 qelectrotech-data/jammy,jammy 1:0.8.0-3 all
 qelectrotech-examples/jammy,jammy 1:0.8.0-3 all
 qelectrotech/jammy 1:0.8.0-3 amd64
-qemu-block-extra/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64 [configuración-residual]
+qemu-block-extra/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64
 qemu-efi-aarch64/jammy-updates,jammy-updates 2022.02-3ubuntu0.22.04.1 all
 qemu-efi-arm/jammy-updates,jammy-updates 2022.02-3ubuntu0.22.04.1 all
 qemu-efi/jammy-updates,jammy-updates 2022.02-3ubuntu0.22.04.1 all
 qemu-guest-agent/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64
-qemu-kvm/now 1:4.2-3ubuntu6.18 amd64 [configuración-residual]
 qemu-system-arm/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64
-qemu-system-common/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64 [configuración-residual]
+qemu-system-common/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64
 qemu-system-data/jammy-updates,jammy-updates 1:6.2+dfsg-2ubuntu6.5 all
 qemu-system-gui/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64
 qemu-system-mips/jammy-updates 1:6.2+dfsg-2ubuntu6.5 amd64
@@ -67366,11 +67186,7 @@ registry-tools/jammy-updates,jammy-security 2:4.15.9+dfsg-0ubuntu0.2 amd64
 registry-tools/jammy-updates,jammy-security 2:4.15.9+dfsg-0ubuntu0.2 i386
 reglookup-doc/jammy,jammy 1.0.1+svn287-9 all
 reglookup/jammy 1.0.1+svn287-9 amd64
-regolith-compositor-compton-glx/now 1.0.6 amd64 [configuración-residual]
-regolith-i3-gaps-config/now 2.4.13-1 amd64 [configuración-residual]
-regolith-look-lascaille/now 2.4.22-1 amd64 [configuración-residual]
 regolith-rofication/now 1.2.2-1 amd64 [configuración-residual]
-regolith-styles/now 2.4.22-1 amd64 [configuración-residual]
 regripper/jammy,jammy 3.0~git20210405.05ef957+dfsg1-1 all
 reiser4progs/jammy 1.2.2-1build1 amd64
 reiserfsprogs/jammy 1:3.6.27-4build4 amd64
@@ -69335,7 +69151,7 @@ rygel-playbin/jammy 0.40.3-1ubuntu2 amd64
 rygel-preferences/jammy 0.40.3-1ubuntu2 amd64
 rygel-ruih/jammy 0.40.3-1ubuntu2 amd64
 rygel-tracker/jammy 0.40.3-1ubuntu2 amd64
-rygel/jammy,now 0.40.3-1ubuntu2 amd64 [configuración-residual]
+rygel/jammy 0.40.3-1ubuntu2 amd64
 rzip/jammy 2.1-4.1 amd64
 s-nail/jammy 14.9.23-1build1 amd64
 s-tui/jammy,jammy 1.1.3-1 all
@@ -69948,7 +69764,7 @@ shorewall/jammy,jammy 5.2.3.4-1 all
 shotcut-data/jammy,jammy 22.01.30+ds-1 all
 shotcut/jammy 22.01.30+ds-1 amd64
 shotdetect/jammy 1.0.86-6 amd64
-shotwell-common/jammy-updates,jammy-updates,now 0.30.14-1ubuntu6 all [configuración-residual]
+shotwell-common/jammy-updates,jammy-updates 0.30.14-1ubuntu6 all
 shotwell/jammy-updates 0.30.14-1ubuntu6 amd64
 shove/jammy,jammy 0.8.4-1 all
 shovill-examples/jammy,jammy 1.1.0-5 all
@@ -71117,7 +70933,7 @@ swish-e/jammy 2.4.7-6.1build1 amd64
 swish/jammy 0.10.1.0-1 amd64
 swisswatch/jammy 0.6-19 amd64
 switchconf/jammy,jammy 0.0.17-1 all
-switcheroo-control/jammy,now 2.4-3build2 amd64 [configuración-residual]
+switcheroo-control/jammy 2.4-3build2 amd64
 switchsh/jammy 0~20070801-4 amd64
 sword-comm-mhcc/jammy,jammy 2.0-1 all
 sword-comm-scofield/jammy,jammy 1.0.1-4 all
@@ -71134,8 +70950,8 @@ sword-text-swahili/jammy,jammy 1.1-0ubuntu1 all
 sword-text-tr/jammy,jammy 1.2-0ubuntu2 all
 sword-text-web/jammy,jammy 353.0-1 all
 sword-text-wlc/jammy,jammy 1.3-0ubuntu1 all
-swtpm-tools/jammy,now 0.6.3-0ubuntu3 amd64 [configuración-residual]
-swtpm/jammy,now 0.6.3-0ubuntu3 amd64 [configuración-residual]
+swtpm-tools/jammy 0.6.3-0ubuntu3 amd64
+swtpm/jammy 0.6.3-0ubuntu3 amd64
 swupdate-doc/jammy,jammy 2021.11-1 all
 swupdate/jammy 2021.11-1 amd64
 sxhkd/jammy 0.6.2-1 amd64
@@ -71235,7 +71051,7 @@ system-config-printer-common/jammy,jammy 1.5.16-0ubuntu3 all
 system-config-printer-udev/jammy,now 1.5.16-0ubuntu3 amd64 [instalado]
 system-config-printer/jammy,jammy 1.5.16-0ubuntu3 all
 system-tools-backends-dev/jammy,jammy 2.10.2-3.1 all
-system-tools-backends/jammy,now 2.10.2-3.1 amd64 [configuración-residual]
+system-tools-backends/jammy 2.10.2-3.1 amd64
 systemctl/jammy,jammy 1.4.4181-1.1 all
 systemd-bootchart/jammy 234-1ubuntu1 amd64
 systemd-container/jammy-updates,now 249.11-0ubuntu3.6 amd64 [instalado, automático]
@@ -71763,7 +71579,7 @@ tenshi/jammy,jammy 0.13-7 all
 tercpp/jammy 0.6.2+svn46-1.1build2 amd64
 termdebug/jammy 2.2+dfsg-1build4 amd64
 terminal.app/jammy 0.9.9-3build2 amd64
-terminator/jammy,jammy 2.1.1-1 all
+terminator/jammy,jammy,now 2.1.1-1 all [instalado]
 terminatorx/jammy 4.1.0-1 amd64
 termineter/jammy,jammy 1.0.4-2 all
 terminews/jammy 1.2.2-1build1 amd64
@@ -72081,7 +71897,7 @@ threeb-imagej/jammy 0.0~git20220106110332.a3144e0-4 amd64
 threeb/jammy 0.0~git20220106110332.a3144e0-4 amd64
 thrift-compiler/jammy 0.16.0-2 amd64
 thunar-archive-plugin/jammy 0.4.0-2 amd64
-thunar-data/jammy,jammy,now 4.16.10-1 all [configuración-residual]
+thunar-data/jammy,jammy 4.16.10-1 all
 thunar-dropbox-plugin/jammy 0.3.1-1 amd64
 thunar-font-manager/jammy 0.8.8-1 amd64
 thunar-gtkhash/jammy 1.2-1build2 amd64
@@ -72449,10 +72265,10 @@ traceshark/jammy 0.9.12~beta-2 amd64
 tracetuner/jammy 3.0.6~beta+dfsg-3 amd64
 trackballs-data/jammy,jammy 1.3.3-1 all
 trackballs/jammy 1.3.3-1 amd64
-tracker-extract/jammy,now 3.3.0-1 amd64 [configuración-residual]
-tracker-miner-fs/jammy,now 3.3.0-1 amd64 [configuración-residual]
+tracker-extract/jammy 3.3.0-1 amd64
+tracker-miner-fs/jammy 3.3.0-1 amd64
 tracker-test-utils/jammy 3.3.0-1 amd64
-tracker/jammy,now 3.3.0-1 amd64 [configuración-residual]
+tracker/jammy 3.3.0-1 amd64
 trader/jammy 7.16-3.1build1 amd64
 trafficserver-dev/jammy 9.1.1+ds-2build1 amd64
 trafficserver-experimental-plugins/jammy 9.1.1+ds-2build1 amd64
@@ -72829,10 +72645,9 @@ ubiquity-slideshow-xubuntu/jammy-updates,jammy-updates 181.1 all
 ubiquity-ubuntu-artwork/jammy-updates,jammy-updates 22.04.18 all
 ubiquity/jammy-updates 22.04.18 amd64
 ublock-origin-doc/jammy,jammy 1.40.2+dfsg-1 all
-ubridge/now 0.9.18-1~focal2 amd64 [configuración-residual]
 ubufox/jammy,jammy 3.4-0ubuntu1.17.10.1 all
 ubumirror/jammy,jammy 0.5 all
-ubuntu-advantage-desktop-daemon/jammy-updates,now 1.9~22.04.1 amd64 [configuración-residual]
+ubuntu-advantage-desktop-daemon/jammy-updates 1.9~22.04.1 amd64
 ubuntu-advantage-pro/jammy-updates,jammy-updates 27.11.3~22.04.1 all
 ubuntu-advantage-tools/jammy-updates,now 27.11.3~22.04.1 amd64 [instalado, automático]
 ubuntu-artwork/jammy,jammy 1:20.10-0ubuntu2 all
@@ -72941,7 +72756,6 @@ ubuntu-snappy-cli/jammy-updates,jammy-updates 2.57.5+22.04 all
 ubuntu-snappy/jammy-updates,jammy-updates 2.57.5+22.04 all
 ubuntu-sounds/jammy,jammy 0.14 all
 ubuntu-standard/jammy,now 1.481 amd64 [instalado]
-ubuntu-system-service/now 0.7 all [configuración-residual]
 ubuntu-touch-settings/jammy,jammy 22.04.6 all
 ubuntu-touch-sounds/jammy,jammy 15.08 all
 ubuntu-unity-desktop/jammy 0.4 amd64
@@ -73230,7 +73044,7 @@ unbound/jammy-updates,jammy-security 1.13.1-1ubuntu5.3 i386
 unburden-home-dir-doc/jammy,jammy 0.4.1.3 all
 unburden-home-dir/jammy,jammy 0.4.1.3 all
 uncalled/jammy 2.2+ds1-1build1 amd64
-unclutter-startup/jammy,jammy,now 8-25 all [configuración-residual]
+unclutter-startup/jammy,jammy 8-25 all
 unclutter-xfixes/jammy 1.5-3 amd64
 unclutter/jammy 8-25 amd64
 uncommons-watchmaker-doc/jammy,jammy 0.7.1-1.1 all
@@ -73307,7 +73121,7 @@ unity-tweak-tool/jammy,jammy 0.0.7+-0ubuntu10 all
 unity/jammy 7.5.1+22.04.20211026.2-0ubuntu1 amd64
 uniutils/jammy 2.27-2build1 amd64
 universal-ctags/jammy 5.9.20210829.0-1 amd64
-unixodbc-common/jammy,jammy,now 2.3.9-5 all [configuración-residual]
+unixodbc-common/jammy,jammy 2.3.9-5 all
 unixodbc-dev/jammy 2.3.9-5 amd64
 unixodbc-dev/jammy 2.3.9-5 i386
 unixodbc/jammy 2.3.9-5 amd64
@@ -73382,7 +73196,6 @@ usbutils/jammy 1:014-1build1 i386
 usbview/jammy 2.0-21-g6fe2f4f-2ubuntu1 amd64
 usemod-wiki/jammy,jammy 1.2.1-2 all
 usepackage/jammy 1.14-1 amd64
-user-manager/now 4:5.18.4.1-0ubuntu1 amd64 [configuración-residual]
 user-mode-linux-doc/jammy,jammy 20060501+repack0-1 all
 user-setup/jammy,jammy 1.88ubuntu1 all
 userbindmount/jammy 0.1-2 amd64
@@ -73739,7 +73552,6 @@ virt-viewer/jammy 7.0-2build2 amd64
 virt-what/jammy 1.21-1 amd64
 virtaal/jammy,jammy 0.7.1+git20191021+ds1-2 all
 virtinst/jammy,jammy 1:4.0.0-1 all
-virtualbox-6.0/now 6.0.12-133076~Ubuntu~bionic amd64 [configuración-residual]
 virtualbox-dkms/jammy-updates,now 6.1.38-dfsg-3~ubuntu1.22.04.1 amd64 [instalado]
 virtualbox-ext-pack/jammy-updates,jammy-updates,now 6.1.38-1~ubuntu1.22.04.1 all [instalado]
 virtualbox-guest-additions-iso/jammy-updates,jammy-updates 6.1.38-1~ubuntu1.22.04.1 all
@@ -74269,7 +74081,7 @@ wireguard/jammy,jammy 1.0.20210914-1ubuntu2 all
 wireless-regdb/jammy-updates,jammy-updates,jammy-security,jammy-security,now 2022.06.06-0ubuntu1~22.04.1 all [instalado]
 wireless-tools/jammy,now 30~pre9-13.1ubuntu4 amd64 [instalado]
 wireplumber/jammy 0.4.8-4 amd64
-wireshark-common/jammy,now 3.6.2-2 amd64 [configuración-residual]
+wireshark-common/jammy 3.6.2-2 amd64
 wireshark-dev/jammy 3.6.2-2 amd64
 wireshark-doc/jammy,jammy 3.6.2-2 all
 wireshark-gtk/jammy 3.6.2-2 amd64
@@ -74714,7 +74526,7 @@ xfce4-eyes-plugin/jammy 4.5.1-1build1 amd64
 xfce4-fsguard-plugin/jammy 1.1.2-1 amd64
 xfce4-genmon-plugin/jammy 4.1.1-1 amd64
 xfce4-goodies/jammy 4.14.0 amd64
-xfce4-helpers/jammy,now 4.16.2-1ubuntu2 amd64 [configuración-residual]
+xfce4-helpers/jammy 4.16.2-1ubuntu2 amd64
 xfce4-indicator-plugin/jammy 2.4.1-1 amd64
 xfce4-mailwatch-plugin/jammy 1.3.0-0ubuntu2 amd64
 xfce4-mount-plugin/jammy 1.1.5-1 amd64
@@ -74868,7 +74680,7 @@ xgterm/jammy 2.1+dfsg-1 amd64
 xhk/jammy 1.2-2 amd64
 xhtml-relaxng/jammy,jammy 20181222+dfsg2-6 all
 xhtml2ps/jammy,jammy 1.0b7-5 all
-xiccd/jammy,now 0.3.0-1 amd64 [configuración-residual]
+xiccd/jammy 0.3.0-1 amd64
 xidle/jammy 20200802 amd64
 xilinx-bootgen/jammy 2021.2-1build1 amd64
 ximtool/jammy 2.1+dfsg-1 amd64
