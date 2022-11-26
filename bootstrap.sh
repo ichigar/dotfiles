@@ -6,3 +6,4 @@ cp ~/.bashrc .
 cp ~/.gitconfig .
 cp ~/.profile .
 cp ~/.zshrc .
+git commit -am "`date`"  
